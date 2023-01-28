@@ -1,0 +1,11544 @@
+1
+1
+poniedzialek
+zeszyt
+ksiazka 3
+ksiazka 1
+dlugopis
+zeszyt
+---
+2
+1
+poniedzialek
+zeszyt 2
+olowek
+---
+3
+1
+poniedzialek
+zeszyt
+zeszyt 3
+olowek
+zeszyt
+olowek
+---
+4
+1
+poniedzialek
+zeszyt
+zeszyt
+---
+5
+1
+poniedzialek
+zeszyt 3
+zeszyt 2
+ksiazka 2
+zeszyt 3
+---
+6
+1
+poniedzialek
+ksiazka 2
+zeszyt 2
+zeszyt 3
+---
+7
+1
+poniedzialek
+ksiazka 1
+dlugopis
+ksiazka 2
+zeszyt
+dlugopis
+---
+8
+1
+poniedzialek
+ksiazka 3
+zeszyt 3
+dlugopis
+---
+9
+1
+poniedzialek
+ksiazka 2
+zeszyt
+olowek
+---
+10
+1
+poniedzialek
+zeszyt 2
+ksiazka 2
+---
+11
+1
+poniedzialek
+zeszyt
+ksiazka 2
+ksiazka 2
+ksiazka 3
+---
+12
+1
+poniedzialek
+ksiazka 3
+ksiazka 3
+olowek
+---
+13
+1
+poniedzialek
+ksiazka 1
+olowek
+zeszyt
+ksiazka 1
+---
+14
+1
+poniedzialek
+zeszyt 2
+zeszyt 2
+dlugopis
+---
+15
+1
+poniedzialek
+olowek
+ksiazka 2
+olowek
+ksiazka 3
+dlugopis
+---
+16
+1
+poniedzialek
+dlugopis
+ksiazka 1
+ksiazka 3
+---
+17
+1
+poniedzialek
+ksiazka 1
+zeszyt 2
+zeszyt 2
+zeszyt
+ksiazka 1
+---
+18
+2
+wtorek
+ksiazka 1
+olowek
+---
+19
+2
+wtorek
+zeszyt
+ksiazka 1
+ksiazka 1
+ksiazka 2
+zeszyt
+---
+20
+2
+wtorek
+zeszyt
+olowek
+dlugopis
+zeszyt 3
+---
+21
+2
+wtorek
+olowek
+---
+22
+2
+wtorek
+zeszyt 2
+ksiazka 3
+ksiazka 3
+zeszyt 2
+---
+23
+2
+wtorek
+ksiazka 2
+dlugopis
+olowek
+dlugopis
+---
+24
+2
+wtorek
+ksiazka 3
+dlugopis
+---
+25
+2
+wtorek
+zeszyt 2
+zeszyt
+zeszyt 3
+---
+26
+2
+wtorek
+zeszyt 3
+zeszyt 2
+ksiazka 3
+---
+27
+2
+wtorek
+zeszyt 3
+zeszyt 2
+---
+28
+2
+wtorek
+ksiazka 2
+dlugopis
+ksiazka 3
+zeszyt 3
+ksiazka 2
+---
+29
+2
+wtorek
+zeszyt 3
+ksiazka 2
+---
+30
+2
+wtorek
+olowek
+---
+31
+2
+wtorek
+zeszyt 2
+olowek
+olowek
+ksiazka 3
+dlugopis
+---
+32
+2
+wtorek
+zeszyt 3
+olowek
+olowek
+zeszyt
+---
+33
+2
+wtorek
+dlugopis
+zeszyt 3
+ksiazka 1
+---
+34
+2
+wtorek
+ksiazka 1
+olowek
+ksiazka 1
+---
+35
+2
+wtorek
+zeszyt
+---
+36
+2
+wtorek
+ksiazka 3
+---
+37
+2
+wtorek
+ksiazka 3
+ksiazka 3
+---
+38
+2
+wtorek
+ksiazka 1
+ksiazka 3
+zeszyt 2
+ksiazka 2
+zeszyt 2
+---
+39
+2
+wtorek
+ksiazka 1
+ksiazka 2
+ksiazka 1
+ksiazka 2
+---
+40
+2
+wtorek
+zeszyt 3
+olowek
+dlugopis
+zeszyt 2
+dlugopis
+---
+41
+2
+wtorek
+zeszyt 2
+ksiazka 3
+zeszyt
+---
+42
+2
+wtorek
+zeszyt 2
+zeszyt
+zeszyt 2
+---
+43
+2
+wtorek
+ksiazka 2
+ksiazka 1
+ksiazka 3
+zeszyt 3
+---
+44
+2
+wtorek
+zeszyt 3
+zeszyt 3
+ksiazka 1
+ksiazka 2
+---
+45
+2
+wtorek
+zeszyt 3
+zeszyt
+---
+46
+2
+wtorek
+ksiazka 3
+dlugopis
+ksiazka 3
+olowek
+---
+47
+2
+wtorek
+olowek
+---
+48
+2
+wtorek
+ksiazka 3
+zeszyt 2
+zeszyt 3
+olowek
+ksiazka 3
+---
+49
+2
+wtorek
+ksiazka 1
+olowek
+zeszyt 3
+---
+50
+2
+wtorek
+ksiazka 1
+---
+51
+2
+wtorek
+dlugopis
+ksiazka 3
+ksiazka 3
+---
+52
+2
+wtorek
+ksiazka 1
+ksiazka 2
+olowek
+---
+53
+2
+wtorek
+zeszyt 3
+ksiazka 3
+ksiazka 1
+dlugopis
+olowek
+---
+54
+2
+wtorek
+zeszyt
+ksiazka 2
+olowek
+ksiazka 3
+zeszyt
+---
+55
+2
+wtorek
+zeszyt 3
+---
+56
+2
+wtorek
+dlugopis
+olowek
+ksiazka 1
+olowek
+dlugopis
+---
+57
+2
+wtorek
+zeszyt
+dlugopis
+---
+58
+2
+wtorek
+zeszyt 2
+zeszyt 2
+dlugopis
+dlugopis
+zeszyt 3
+---
+59
+2
+wtorek
+zeszyt
+ksiazka 2
+zeszyt
+ksiazka 2
+---
+60
+2
+wtorek
+zeszyt 3
+dlugopis
+ksiazka 3
+zeszyt 3
+zeszyt
+---
+61
+2
+wtorek
+ksiazka 2
+olowek
+olowek
+---
+62
+2
+wtorek
+ksiazka 1
+dlugopis
+---
+63
+2
+wtorek
+zeszyt
+ksiazka 2
+zeszyt 2
+ksiazka 2
+---
+64
+2
+wtorek
+zeszyt 3
+olowek
+ksiazka 2
+zeszyt 3
+zeszyt 2
+---
+65
+2
+wtorek
+ksiazka 3
+zeszyt 2
+ksiazka 3
+ksiazka 3
+ksiazka 1
+---
+66
+2
+wtorek
+ksiazka 1
+zeszyt
+ksiazka 1
+dlugopis
+zeszyt 2
+---
+67
+3
+sroda
+ksiazka 1
+zeszyt 2
+olowek
+ksiazka 3
+---
+68
+3
+sroda
+dlugopis
+---
+69
+3
+sroda
+ksiazka 2
+zeszyt 3
+ksiazka 2
+ksiazka 2
+---
+70
+3
+sroda
+olowek
+dlugopis
+---
+71
+3
+sroda
+olowek
+zeszyt
+ksiazka 3
+ksiazka 2
+zeszyt 2
+---
+72
+3
+sroda
+zeszyt 2
+ksiazka 1
+ksiazka 1
+zeszyt
+ksiazka 3
+---
+73
+3
+sroda
+dlugopis
+ksiazka 1
+olowek
+ksiazka 3
+zeszyt 2
+---
+74
+3
+sroda
+olowek
+olowek
+zeszyt 3
+zeszyt 3
+---
+75
+3
+sroda
+zeszyt 3
+zeszyt 2
+olowek
+zeszyt
+zeszyt 3
+---
+76
+3
+sroda
+zeszyt
+---
+77
+3
+sroda
+olowek
+ksiazka 1
+zeszyt 2
+zeszyt 2
+zeszyt 2
+---
+78
+3
+sroda
+ksiazka 1
+zeszyt 2
+ksiazka 2
+ksiazka 3
+ksiazka 1
+---
+79
+3
+sroda
+dlugopis
+---
+80
+3
+sroda
+ksiazka 3
+---
+81
+3
+sroda
+zeszyt 3
+ksiazka 3
+ksiazka 3
+---
+82
+3
+sroda
+ksiazka 3
+---
+83
+3
+sroda
+ksiazka 1
+ksiazka 2
+dlugopis
+olowek
+zeszyt 3
+---
+84
+3
+sroda
+ksiazka 1
+ksiazka 1
+ksiazka 3
+---
+85
+3
+sroda
+olowek
+ksiazka 3
+olowek
+ksiazka 3
+---
+86
+3
+sroda
+dlugopis
+zeszyt 2
+dlugopis
+ksiazka 1
+---
+87
+3
+sroda
+ksiazka 3
+---
+88
+3
+sroda
+ksiazka 2
+---
+89
+3
+sroda
+ksiazka 1
+ksiazka 2
+zeszyt 2
+olowek
+---
+90
+3
+sroda
+zeszyt 2
+ksiazka 3
+ksiazka 3
+---
+91
+3
+sroda
+ksiazka 2
+zeszyt 2
+---
+92
+3
+sroda
+dlugopis
+---
+93
+3
+sroda
+ksiazka 3
+zeszyt 2
+dlugopis
+---
+94
+3
+sroda
+zeszyt 3
+ksiazka 3
+zeszyt 2
+---
+95
+3
+sroda
+dlugopis
+---
+96
+3
+sroda
+ksiazka 3
+zeszyt 2
+zeszyt
+---
+97
+3
+sroda
+zeszyt 3
+zeszyt 3
+---
+98
+3
+sroda
+ksiazka 1
+zeszyt
+zeszyt 2
+zeszyt
+ksiazka 3
+---
+99
+3
+sroda
+ksiazka 1
+zeszyt
+ksiazka 2
+zeszyt
+---
+100
+3
+sroda
+ksiazka 2
+zeszyt 2
+---
+101
+3
+sroda
+zeszyt
+---
+102
+3
+sroda
+olowek
+zeszyt 2
+zeszyt
+ksiazka 2
+ksiazka 2
+---
+103
+3
+sroda
+zeszyt 3
+dlugopis
+---
+104
+3
+sroda
+zeszyt 2
+dlugopis
+---
+105
+3
+sroda
+zeszyt
+dlugopis
+olowek
+zeszyt 2
+---
+106
+3
+sroda
+ksiazka 2
+---
+107
+4
+czwartek
+olowek
+dlugopis
+ksiazka 1
+zeszyt
+---
+108
+4
+czwartek
+ksiazka 1
+ksiazka 2
+zeszyt 3
+---
+109
+4
+czwartek
+olowek
+ksiazka 1
+dlugopis
+---
+110
+4
+czwartek
+zeszyt 3
+---
+111
+4
+czwartek
+olowek
+---
+112
+4
+czwartek
+olowek
+zeszyt
+olowek
+zeszyt 3
+---
+113
+4
+czwartek
+zeszyt 2
+---
+114
+4
+czwartek
+ksiazka 2
+zeszyt
+dlugopis
+zeszyt
+dlugopis
+---
+115
+4
+czwartek
+zeszyt 3
+ksiazka 2
+zeszyt 2
+zeszyt 2
+zeszyt
+---
+116
+4
+czwartek
+dlugopis
+zeszyt
+---
+117
+4
+czwartek
+ksiazka 1
+---
+118
+4
+czwartek
+zeszyt 3
+ksiazka 1
+ksiazka 2
+zeszyt 3
+ksiazka 1
+---
+119
+4
+czwartek
+zeszyt 2
+zeszyt 2
+ksiazka 3
+zeszyt
+ksiazka 3
+---
+120
+4
+czwartek
+dlugopis
+olowek
+---
+121
+4
+czwartek
+dlugopis
+zeszyt
+---
+122
+4
+czwartek
+zeszyt 3
+---
+123
+4
+czwartek
+ksiazka 3
+---
+124
+4
+czwartek
+zeszyt 3
+dlugopis
+zeszyt 2
+olowek
+---
+125
+4
+czwartek
+olowek
+---
+126
+4
+czwartek
+ksiazka 3
+dlugopis
+ksiazka 3
+ksiazka 1
+olowek
+---
+127
+4
+czwartek
+ksiazka 1
+---
+128
+4
+czwartek
+ksiazka 3
+ksiazka 1
+zeszyt 3
+zeszyt 2
+zeszyt 2
+---
+129
+4
+czwartek
+ksiazka 1
+ksiazka 3
+---
+130
+4
+czwartek
+zeszyt 3
+---
+131
+4
+czwartek
+ksiazka 2
+ksiazka 2
+zeszyt 3
+dlugopis
+zeszyt 2
+---
+132
+4
+czwartek
+zeszyt 3
+olowek
+ksiazka 3
+---
+133
+4
+czwartek
+ksiazka 2
+ksiazka 3
+zeszyt 3
+ksiazka 3
+zeszyt 3
+---
+134
+4
+czwartek
+zeszyt 2
+ksiazka 2
+ksiazka 1
+ksiazka 2
+ksiazka 1
+---
+135
+4
+czwartek
+olowek
+ksiazka 3
+zeszyt 2
+ksiazka 1
+---
+136
+4
+czwartek
+olowek
+zeszyt 3
+---
+137
+4
+czwartek
+zeszyt 2
+---
+138
+4
+czwartek
+ksiazka 1
+---
+139
+4
+czwartek
+olowek
+zeszyt
+zeszyt
+zeszyt 2
+zeszyt
+---
+140
+4
+czwartek
+ksiazka 3
+---
+141
+4
+czwartek
+zeszyt 2
+ksiazka 2
+ksiazka 1
+---
+142
+4
+czwartek
+zeszyt 3
+dlugopis
+ksiazka 2
+ksiazka 1
+---
+143
+4
+czwartek
+olowek
+ksiazka 1
+dlugopis
+zeszyt 2
+---
+144
+4
+czwartek
+ksiazka 3
+zeszyt 3
+zeszyt 3
+ksiazka 3
+---
+145
+4
+czwartek
+dlugopis
+ksiazka 1
+zeszyt 3
+ksiazka 2
+dlugopis
+---
+146
+4
+czwartek
+dlugopis
+---
+147
+4
+czwartek
+zeszyt
+ksiazka 2
+zeszyt
+zeszyt 3
+---
+148
+4
+czwartek
+ksiazka 2
+ksiazka 2
+zeszyt 2
+zeszyt 2
+zeszyt 3
+---
+149
+4
+czwartek
+ksiazka 2
+---
+150
+4
+czwartek
+ksiazka 1
+ksiazka 3
+---
+151
+4
+czwartek
+olowek
+dlugopis
+ksiazka 3
+---
+152
+4
+czwartek
+ksiazka 1
+---
+153
+4
+czwartek
+ksiazka 3
+zeszyt 2
+olowek
+zeszyt 3
+ksiazka 3
+---
+154
+4
+czwartek
+dlugopis
+zeszyt 2
+zeszyt 2
+---
+155
+4
+czwartek
+ksiazka 2
+zeszyt 2
+ksiazka 1
+zeszyt 3
+ksiazka 2
+---
+156
+4
+czwartek
+dlugopis
+zeszyt 2
+dlugopis
+---
+157
+5
+piatek
+olowek
+dlugopis
+---
+158
+5
+piatek
+zeszyt 3
+dlugopis
+olowek
+zeszyt 2
+---
+159
+5
+piatek
+ksiazka 2
+---
+160
+5
+piatek
+ksiazka 1
+dlugopis
+---
+161
+5
+piatek
+zeszyt 3
+ksiazka 2
+zeszyt 2
+---
+162
+5
+piatek
+zeszyt 3
+ksiazka 1
+dlugopis
+ksiazka 3
+---
+163
+5
+piatek
+zeszyt 2
+dlugopis
+ksiazka 3
+---
+164
+5
+piatek
+ksiazka 2
+---
+165
+5
+piatek
+dlugopis
+---
+166
+5
+piatek
+dlugopis
+ksiazka 2
+ksiazka 1
+ksiazka 3
+dlugopis
+---
+167
+5
+piatek
+olowek
+zeszyt 3
+---
+168
+5
+piatek
+ksiazka 3
+---
+169
+5
+piatek
+ksiazka 3
+zeszyt
+dlugopis
+zeszyt 2
+ksiazka 1
+---
+170
+5
+piatek
+olowek
+---
+171
+5
+piatek
+dlugopis
+ksiazka 2
+---
+172
+5
+piatek
+dlugopis
+dlugopis
+dlugopis
+zeszyt 2
+zeszyt 2
+---
+173
+5
+piatek
+olowek
+---
+174
+5
+piatek
+ksiazka 3
+ksiazka 2
+dlugopis
+ksiazka 3
+---
+175
+5
+piatek
+olowek
+olowek
+zeszyt 2
+ksiazka 2
+zeszyt 3
+---
+176
+5
+piatek
+zeszyt 3
+zeszyt 3
+zeszyt 3
+olowek
+---
+177
+5
+piatek
+olowek
+dlugopis
+---
+178
+5
+piatek
+zeszyt 2
+ksiazka 2
+---
+179
+5
+piatek
+zeszyt 2
+ksiazka 3
+zeszyt 3
+ksiazka 2
+zeszyt 3
+---
+180
+5
+piatek
+olowek
+ksiazka 1
+zeszyt 2
+zeszyt 2
+---
+181
+5
+piatek
+olowek
+---
+182
+5
+piatek
+zeszyt 3
+---
+183
+5
+piatek
+dlugopis
+zeszyt 2
+olowek
+zeszyt
+---
+184
+5
+piatek
+zeszyt
+ksiazka 2
+ksiazka 2
+ksiazka 1
+---
+185
+5
+piatek
+ksiazka 3
+zeszyt 3
+zeszyt 3
+---
+186
+5
+piatek
+zeszyt 3
+ksiazka 2
+olowek
+zeszyt
+zeszyt 2
+---
+187
+5
+piatek
+ksiazka 1
+zeszyt 2
+ksiazka 3
+dlugopis
+---
+188
+5
+piatek
+ksiazka 2
+ksiazka 1
+---
+189
+5
+piatek
+ksiazka 3
+ksiazka 2
+zeszyt 3
+zeszyt
+---
+190
+5
+piatek
+olowek
+---
+191
+5
+piatek
+zeszyt 2
+---
+192
+5
+piatek
+dlugopis
+ksiazka 2
+zeszyt
+olowek
+---
+193
+5
+piatek
+ksiazka 1
+zeszyt
+dlugopis
+dlugopis
+---
+194
+5
+piatek
+ksiazka 1
+---
+195
+5
+piatek
+zeszyt 3
+olowek
+---
+196
+6
+sobota
+ksiazka 1
+dlugopis
+ksiazka 3
+ksiazka 3
+---
+197
+6
+sobota
+olowek
+ksiazka 2
+---
+198
+6
+sobota
+ksiazka 1
+olowek
+ksiazka 3
+---
+199
+6
+sobota
+zeszyt
+zeszyt 3
+ksiazka 3
+zeszyt 3
+zeszyt 2
+---
+200
+6
+sobota
+zeszyt
+---
+201
+6
+sobota
+zeszyt
+ksiazka 3
+ksiazka 1
+---
+202
+6
+sobota
+olowek
+zeszyt
+dlugopis
+zeszyt 3
+zeszyt 3
+---
+203
+6
+sobota
+zeszyt 2
+---
+204
+6
+sobota
+ksiazka 2
+zeszyt
+ksiazka 3
+---
+205
+6
+sobota
+zeszyt 2
+---
+206
+6
+sobota
+olowek
+ksiazka 2
+ksiazka 3
+---
+207
+6
+sobota
+ksiazka 1
+dlugopis
+---
+208
+6
+sobota
+ksiazka 3
+zeszyt
+---
+209
+6
+sobota
+olowek
+ksiazka 2
+ksiazka 3
+ksiazka 3
+zeszyt
+---
+210
+6
+sobota
+ksiazka 3
+ksiazka 2
+dlugopis
+ksiazka 1
+zeszyt 3
+---
+211
+6
+sobota
+ksiazka 2
+zeszyt
+olowek
+zeszyt
+---
+212
+6
+sobota
+olowek
+zeszyt
+---
+213
+6
+sobota
+olowek
+zeszyt 2
+ksiazka 2
+---
+214
+6
+sobota
+ksiazka 1
+ksiazka 1
+ksiazka 2
+---
+215
+6
+sobota
+ksiazka 1
+zeszyt 3
+olowek
+dlugopis
+---
+216
+6
+sobota
+ksiazka 2
+zeszyt 3
+zeszyt
+zeszyt 2
+olowek
+---
+217
+7
+poniedzialek
+ksiazka 3
+ksiazka 1
+---
+218
+7
+poniedzialek
+ksiazka 2
+ksiazka 2
+zeszyt 2
+zeszyt
+---
+219
+7
+poniedzialek
+zeszyt 3
+---
+220
+7
+poniedzialek
+zeszyt 3
+dlugopis
+dlugopis
+zeszyt 2
+ksiazka 3
+---
+221
+7
+poniedzialek
+zeszyt 2
+zeszyt 2
+olowek
+ksiazka 1
+ksiazka 2
+---
+222
+7
+poniedzialek
+zeszyt
+dlugopis
+dlugopis
+---
+223
+7
+poniedzialek
+ksiazka 2
+zeszyt 3
+olowek
+ksiazka 3
+---
+224
+7
+poniedzialek
+ksiazka 2
+---
+225
+7
+poniedzialek
+ksiazka 2
+zeszyt
+---
+226
+7
+poniedzialek
+dlugopis
+ksiazka 3
+zeszyt
+zeszyt
+olowek
+---
+227
+7
+poniedzialek
+zeszyt 2
+ksiazka 3
+olowek
+---
+228
+7
+poniedzialek
+dlugopis
+---
+229
+7
+poniedzialek
+ksiazka 2
+---
+230
+7
+poniedzialek
+dlugopis
+dlugopis
+dlugopis
+zeszyt
+dlugopis
+---
+231
+7
+poniedzialek
+dlugopis
+ksiazka 1
+---
+232
+7
+poniedzialek
+zeszyt 3
+olowek
+---
+233
+7
+poniedzialek
+dlugopis
+dlugopis
+zeszyt
+---
+234
+7
+poniedzialek
+zeszyt
+zeszyt 2
+ksiazka 1
+olowek
+---
+235
+7
+poniedzialek
+dlugopis
+olowek
+dlugopis
+olowek
+---
+236
+7
+poniedzialek
+ksiazka 3
+---
+237
+7
+poniedzialek
+zeszyt 3
+zeszyt
+---
+238
+7
+poniedzialek
+zeszyt 2
+ksiazka 2
+dlugopis
+ksiazka 3
+---
+239
+7
+poniedzialek
+olowek
+ksiazka 2
+ksiazka 1
+zeszyt
+---
+240
+8
+wtorek
+zeszyt
+zeszyt
+---
+241
+8
+wtorek
+ksiazka 3
+ksiazka 2
+ksiazka 3
+dlugopis
+zeszyt 2
+---
+242
+8
+wtorek
+zeszyt
+ksiazka 2
+zeszyt 3
+---
+243
+8
+wtorek
+ksiazka 1
+zeszyt
+zeszyt
+dlugopis
+ksiazka 1
+---
+244
+8
+wtorek
+zeszyt 3
+ksiazka 2
+---
+245
+8
+wtorek
+olowek
+ksiazka 2
+zeszyt 2
+zeszyt
+---
+246
+8
+wtorek
+zeszyt 2
+zeszyt
+zeszyt
+---
+247
+8
+wtorek
+zeszyt 3
+zeszyt 2
+---
+248
+8
+wtorek
+ksiazka 1
+olowek
+---
+249
+8
+wtorek
+ksiazka 1
+dlugopis
+---
+250
+8
+wtorek
+zeszyt 3
+---
+251
+8
+wtorek
+zeszyt
+olowek
+zeszyt 2
+---
+252
+8
+wtorek
+zeszyt 3
+ksiazka 3
+ksiazka 2
+zeszyt 2
+---
+253
+8
+wtorek
+zeszyt
+olowek
+zeszyt 2
+---
+254
+8
+wtorek
+ksiazka 1
+---
+255
+8
+wtorek
+zeszyt 3
+zeszyt
+ksiazka 3
+olowek
+ksiazka 2
+---
+256
+8
+wtorek
+dlugopis
+zeszyt 3
+ksiazka 3
+---
+257
+8
+wtorek
+olowek
+---
+258
+8
+wtorek
+zeszyt 3
+---
+259
+8
+wtorek
+zeszyt 3
+dlugopis
+---
+260
+8
+wtorek
+ksiazka 3
+---
+261
+8
+wtorek
+zeszyt 3
+---
+262
+8
+wtorek
+zeszyt 2
+---
+263
+8
+wtorek
+dlugopis
+ksiazka 2
+ksiazka 2
+olowek
+---
+264
+8
+wtorek
+ksiazka 1
+zeszyt 2
+zeszyt 3
+ksiazka 1
+ksiazka 2
+---
+265
+8
+wtorek
+ksiazka 2
+ksiazka 1
+---
+266
+8
+wtorek
+dlugopis
+olowek
+olowek
+olowek
+ksiazka 2
+---
+267
+8
+wtorek
+zeszyt
+zeszyt
+zeszyt 3
+---
+268
+8
+wtorek
+zeszyt
+dlugopis
+zeszyt
+ksiazka 2
+---
+269
+8
+wtorek
+zeszyt
+ksiazka 1
+zeszyt
+---
+270
+8
+wtorek
+zeszyt 3
+---
+271
+8
+wtorek
+ksiazka 2
+ksiazka 1
+ksiazka 3
+zeszyt
+olowek
+---
+272
+8
+wtorek
+ksiazka 3
+ksiazka 1
+zeszyt
+---
+273
+8
+wtorek
+zeszyt 2
+ksiazka 1
+---
+274
+8
+wtorek
+dlugopis
+zeszyt
+---
+275
+8
+wtorek
+ksiazka 1
+ksiazka 3
+olowek
+olowek
+ksiazka 3
+---
+276
+8
+wtorek
+olowek
+---
+277
+8
+wtorek
+zeszyt
+zeszyt
+ksiazka 1
+dlugopis
+---
+278
+8
+wtorek
+olowek
+ksiazka 2
+zeszyt 3
+ksiazka 2
+ksiazka 1
+---
+279
+8
+wtorek
+zeszyt
+---
+280
+8
+wtorek
+dlugopis
+dlugopis
+zeszyt 3
+---
+281
+8
+wtorek
+zeszyt
+zeszyt 3
+---
+282
+8
+wtorek
+zeszyt
+ksiazka 1
+ksiazka 1
+---
+283
+8
+wtorek
+dlugopis
+zeszyt
+dlugopis
+---
+284
+8
+wtorek
+ksiazka 1
+zeszyt 2
+zeszyt 2
+zeszyt
+---
+285
+8
+wtorek
+ksiazka 3
+zeszyt 3
+ksiazka 2
+ksiazka 1
+---
+286
+8
+wtorek
+ksiazka 2
+dlugopis
+ksiazka 2
+ksiazka 3
+ksiazka 2
+---
+287
+8
+wtorek
+dlugopis
+olowek
+zeszyt
+ksiazka 1
+---
+288
+8
+wtorek
+dlugopis
+zeszyt
+---
+289
+8
+wtorek
+ksiazka 2
+zeszyt
+ksiazka 1
+ksiazka 2
+ksiazka 3
+---
+290
+8
+wtorek
+zeszyt 3
+ksiazka 2
+ksiazka 3
+---
+291
+8
+wtorek
+zeszyt
+ksiazka 2
+---
+292
+8
+wtorek
+zeszyt
+ksiazka 1
+ksiazka 1
+---
+293
+8
+wtorek
+ksiazka 2
+ksiazka 2
+ksiazka 1
+zeszyt 2
+---
+294
+9
+sroda
+ksiazka 2
+ksiazka 1
+zeszyt 2
+zeszyt 3
+olowek
+---
+295
+9
+sroda
+zeszyt 3
+---
+296
+9
+sroda
+ksiazka 1
+olowek
+zeszyt 3
+zeszyt 3
+dlugopis
+---
+297
+9
+sroda
+olowek
+zeszyt
+---
+298
+9
+sroda
+zeszyt
+dlugopis
+---
+299
+9
+sroda
+zeszyt 2
+ksiazka 3
+dlugopis
+dlugopis
+ksiazka 2
+---
+300
+9
+sroda
+olowek
+zeszyt
+ksiazka 1
+dlugopis
+olowek
+---
+301
+9
+sroda
+ksiazka 2
+zeszyt 2
+ksiazka 1
+dlugopis
+dlugopis
+---
+302
+9
+sroda
+ksiazka 3
+ksiazka 3
+dlugopis
+ksiazka 2
+---
+303
+9
+sroda
+ksiazka 1
+dlugopis
+---
+304
+9
+sroda
+ksiazka 3
+zeszyt
+ksiazka 3
+---
+305
+9
+sroda
+dlugopis
+olowek
+dlugopis
+olowek
+ksiazka 3
+---
+306
+9
+sroda
+zeszyt 3
+olowek
+olowek
+zeszyt
+---
+307
+9
+sroda
+zeszyt 3
+dlugopis
+ksiazka 3
+---
+308
+9
+sroda
+dlugopis
+ksiazka 3
+ksiazka 2
+zeszyt 3
+---
+309
+9
+sroda
+zeszyt
+olowek
+ksiazka 2
+ksiazka 3
+zeszyt
+---
+310
+9
+sroda
+zeszyt
+---
+311
+9
+sroda
+ksiazka 2
+zeszyt 3
+---
+312
+9
+sroda
+ksiazka 3
+olowek
+---
+313
+9
+sroda
+olowek
+olowek
+olowek
+zeszyt 3
+ksiazka 2
+---
+314
+9
+sroda
+zeszyt 3
+zeszyt 3
+ksiazka 3
+zeszyt
+ksiazka 2
+---
+315
+9
+sroda
+zeszyt 3
+---
+316
+9
+sroda
+dlugopis
+olowek
+olowek
+zeszyt 3
+---
+317
+9
+sroda
+zeszyt
+ksiazka 1
+---
+318
+9
+sroda
+zeszyt 2
+ksiazka 1
+ksiazka 1
+zeszyt 3
+---
+319
+9
+sroda
+ksiazka 1
+zeszyt 3
+olowek
+ksiazka 3
+zeszyt 3
+---
+320
+9
+sroda
+ksiazka 1
+ksiazka 3
+olowek
+---
+321
+9
+sroda
+dlugopis
+olowek
+zeszyt 3
+dlugopis
+---
+322
+9
+sroda
+zeszyt 3
+ksiazka 1
+---
+323
+9
+sroda
+zeszyt 2
+olowek
+zeszyt 2
+zeszyt 3
+---
+324
+9
+sroda
+ksiazka 2
+zeszyt 3
+---
+325
+9
+sroda
+ksiazka 2
+---
+326
+9
+sroda
+dlugopis
+dlugopis
+ksiazka 3
+ksiazka 2
+---
+327
+9
+sroda
+zeszyt
+---
+328
+9
+sroda
+olowek
+ksiazka 1
+---
+329
+9
+sroda
+ksiazka 2
+olowek
+ksiazka 1
+---
+330
+9
+sroda
+dlugopis
+ksiazka 1
+ksiazka 2
+---
+331
+9
+sroda
+dlugopis
+zeszyt
+ksiazka 1
+zeszyt 2
+dlugopis
+---
+332
+9
+sroda
+ksiazka 1
+zeszyt 2
+ksiazka 3
+dlugopis
+ksiazka 3
+---
+333
+9
+sroda
+dlugopis
+---
+334
+9
+sroda
+zeszyt 2
+ksiazka 2
+---
+335
+9
+sroda
+ksiazka 2
+ksiazka 3
+dlugopis
+zeszyt
+zeszyt 3
+---
+336
+9
+sroda
+zeszyt
+dlugopis
+zeszyt 2
+---
+337
+9
+sroda
+ksiazka 2
+olowek
+---
+338
+9
+sroda
+zeszyt 2
+zeszyt 3
+---
+339
+9
+sroda
+ksiazka 2
+zeszyt 3
+dlugopis
+---
+340
+10
+czwartek
+ksiazka 2
+---
+341
+10
+czwartek
+ksiazka 3
+ksiazka 1
+ksiazka 1
+dlugopis
+---
+342
+10
+czwartek
+dlugopis
+zeszyt
+olowek
+---
+343
+10
+czwartek
+ksiazka 3
+olowek
+dlugopis
+ksiazka 2
+---
+344
+10
+czwartek
+zeszyt 3
+ksiazka 3
+zeszyt
+dlugopis
+zeszyt 3
+---
+345
+10
+czwartek
+olowek
+zeszyt 2
+dlugopis
+---
+346
+10
+czwartek
+ksiazka 3
+zeszyt 2
+---
+347
+10
+czwartek
+olowek
+ksiazka 2
+ksiazka 2
+ksiazka 1
+---
+348
+10
+czwartek
+zeszyt 2
+zeszyt 2
+---
+349
+10
+czwartek
+olowek
+zeszyt
+---
+350
+10
+czwartek
+zeszyt
+dlugopis
+dlugopis
+ksiazka 1
+ksiazka 3
+---
+351
+10
+czwartek
+ksiazka 1
+ksiazka 1
+zeszyt 3
+zeszyt
+---
+352
+10
+czwartek
+zeszyt
+---
+353
+10
+czwartek
+ksiazka 1
+ksiazka 1
+zeszyt 3
+---
+354
+10
+czwartek
+zeszyt
+ksiazka 3
+ksiazka 2
+ksiazka 3
+---
+355
+10
+czwartek
+dlugopis
+ksiazka 1
+dlugopis
+ksiazka 2
+ksiazka 1
+---
+356
+10
+czwartek
+ksiazka 1
+zeszyt 3
+ksiazka 3
+ksiazka 3
+---
+357
+10
+czwartek
+ksiazka 1
+dlugopis
+ksiazka 2
+---
+358
+10
+czwartek
+zeszyt 3
+ksiazka 3
+ksiazka 1
+ksiazka 3
+---
+359
+10
+czwartek
+ksiazka 3
+dlugopis
+olowek
+zeszyt
+ksiazka 2
+---
+360
+10
+czwartek
+ksiazka 3
+ksiazka 3
+---
+361
+10
+czwartek
+zeszyt 3
+---
+362
+10
+czwartek
+ksiazka 3
+dlugopis
+dlugopis
+ksiazka 2
+ksiazka 1
+---
+363
+10
+czwartek
+ksiazka 1
+ksiazka 1
+---
+364
+10
+czwartek
+zeszyt
+ksiazka 1
+---
+365
+10
+czwartek
+zeszyt
+dlugopis
+ksiazka 3
+zeszyt 2
+ksiazka 3
+---
+366
+10
+czwartek
+zeszyt
+dlugopis
+ksiazka 1
+olowek
+zeszyt
+---
+367
+10
+czwartek
+ksiazka 3
+zeszyt 3
+dlugopis
+ksiazka 2
+dlugopis
+---
+368
+10
+czwartek
+zeszyt 2
+dlugopis
+zeszyt
+---
+369
+10
+czwartek
+zeszyt
+ksiazka 1
+ksiazka 1
+zeszyt 2
+---
+370
+11
+piatek
+dlugopis
+zeszyt 2
+zeszyt 2
+zeszyt 2
+---
+371
+11
+piatek
+dlugopis
+---
+372
+11
+piatek
+zeszyt
+ksiazka 2
+---
+373
+11
+piatek
+ksiazka 2
+ksiazka 2
+ksiazka 3
+---
+374
+11
+piatek
+zeszyt 3
+ksiazka 2
+zeszyt 3
+ksiazka 2
+ksiazka 1
+---
+375
+11
+piatek
+ksiazka 1
+dlugopis
+zeszyt 2
+---
+376
+11
+piatek
+ksiazka 3
+zeszyt 2
+ksiazka 1
+zeszyt 2
+ksiazka 1
+---
+377
+11
+piatek
+ksiazka 1
+ksiazka 3
+---
+378
+11
+piatek
+ksiazka 3
+zeszyt
+olowek
+---
+379
+11
+piatek
+dlugopis
+dlugopis
+dlugopis
+zeszyt
+---
+380
+11
+piatek
+ksiazka 2
+zeszyt 3
+ksiazka 1
+dlugopis
+zeszyt 3
+---
+381
+11
+piatek
+dlugopis
+zeszyt
+---
+382
+11
+piatek
+olowek
+ksiazka 2
+---
+383
+11
+piatek
+ksiazka 2
+dlugopis
+olowek
+---
+384
+11
+piatek
+zeszyt 3
+ksiazka 3
+zeszyt 3
+ksiazka 1
+ksiazka 3
+---
+385
+11
+piatek
+olowek
+zeszyt 3
+ksiazka 1
+---
+386
+11
+piatek
+dlugopis
+olowek
+---
+387
+11
+piatek
+zeszyt
+olowek
+ksiazka 1
+zeszyt
+zeszyt 2
+---
+388
+11
+piatek
+ksiazka 1
+zeszyt
+ksiazka 2
+---
+389
+11
+piatek
+olowek
+ksiazka 1
+zeszyt
+zeszyt
+---
+390
+11
+piatek
+zeszyt
+---
+391
+11
+piatek
+zeszyt
+olowek
+---
+392
+11
+piatek
+ksiazka 3
+ksiazka 1
+ksiazka 3
+zeszyt 2
+ksiazka 3
+---
+393
+11
+piatek
+ksiazka 3
+ksiazka 3
+zeszyt 2
+ksiazka 2
+ksiazka 2
+---
+394
+11
+piatek
+ksiazka 3
+ksiazka 2
+zeszyt
+---
+395
+11
+piatek
+olowek
+dlugopis
+zeszyt 3
+zeszyt
+ksiazka 3
+---
+396
+11
+piatek
+olowek
+ksiazka 1
+ksiazka 3
+---
+397
+11
+piatek
+ksiazka 1
+olowek
+ksiazka 1
+zeszyt 3
+---
+398
+11
+piatek
+ksiazka 2
+---
+399
+11
+piatek
+ksiazka 3
+dlugopis
+---
+400
+11
+piatek
+ksiazka 1
+zeszyt 2
+ksiazka 2
+zeszyt 3
+dlugopis
+---
+401
+11
+piatek
+ksiazka 1
+zeszyt
+ksiazka 2
+---
+402
+11
+piatek
+ksiazka 3
+---
+403
+11
+piatek
+ksiazka 3
+ksiazka 2
+zeszyt 2
+zeszyt 2
+---
+404
+11
+piatek
+dlugopis
+ksiazka 1
+olowek
+---
+405
+12
+sobota
+zeszyt
+olowek
+---
+406
+12
+sobota
+ksiazka 2
+---
+407
+12
+sobota
+zeszyt
+zeszyt
+ksiazka 1
+ksiazka 1
+---
+408
+12
+sobota
+ksiazka 2
+dlugopis
+---
+409
+12
+sobota
+ksiazka 2
+zeszyt 3
+dlugopis
+ksiazka 3
+---
+410
+12
+sobota
+zeszyt
+zeszyt 2
+ksiazka 2
+zeszyt 3
+---
+411
+12
+sobota
+ksiazka 3
+olowek
+ksiazka 1
+zeszyt 3
+zeszyt 3
+---
+412
+12
+sobota
+olowek
+ksiazka 2
+olowek
+zeszyt 2
+ksiazka 2
+---
+413
+12
+sobota
+olowek
+ksiazka 3
+ksiazka 1
+zeszyt
+zeszyt
+---
+414
+12
+sobota
+zeszyt
+---
+415
+12
+sobota
+ksiazka 3
+zeszyt 2
+ksiazka 3
+---
+416
+12
+sobota
+zeszyt 2
+dlugopis
+zeszyt
+zeszyt
+zeszyt 2
+---
+417
+12
+sobota
+zeszyt 2
+zeszyt
+zeszyt 3
+zeszyt 3
+---
+418
+12
+sobota
+zeszyt 2
+ksiazka 3
+zeszyt
+zeszyt 2
+---
+419
+12
+sobota
+ksiazka 2
+olowek
+ksiazka 1
+---
+420
+12
+sobota
+dlugopis
+zeszyt
+ksiazka 2
+ksiazka 1
+---
+421
+12
+sobota
+olowek
+zeszyt
+zeszyt
+zeszyt
+---
+422
+12
+sobota
+ksiazka 1
+---
+423
+12
+sobota
+dlugopis
+dlugopis
+dlugopis
+zeszyt
+---
+424
+12
+sobota
+olowek
+olowek
+---
+425
+12
+sobota
+zeszyt 3
+zeszyt
+zeszyt 2
+---
+426
+12
+sobota
+zeszyt 2
+ksiazka 2
+ksiazka 3
+ksiazka 2
+---
+427
+12
+sobota
+zeszyt
+zeszyt
+---
+428
+12
+sobota
+ksiazka 3
+---
+429
+13
+poniedzialek
+olowek
+zeszyt 3
+ksiazka 3
+---
+430
+13
+poniedzialek
+zeszyt 3
+ksiazka 1
+olowek
+zeszyt
+---
+431
+13
+poniedzialek
+zeszyt 3
+zeszyt 3
+dlugopis
+dlugopis
+---
+432
+13
+poniedzialek
+zeszyt 3
+zeszyt 2
+ksiazka 1
+zeszyt
+---
+433
+13
+poniedzialek
+olowek
+zeszyt 3
+olowek
+---
+434
+13
+poniedzialek
+ksiazka 2
+zeszyt 3
+zeszyt 2
+zeszyt
+zeszyt 3
+---
+435
+13
+poniedzialek
+ksiazka 1
+dlugopis
+ksiazka 2
+---
+436
+13
+poniedzialek
+zeszyt 3
+dlugopis
+zeszyt 2
+dlugopis
+zeszyt
+---
+437
+13
+poniedzialek
+ksiazka 1
+---
+438
+13
+poniedzialek
+dlugopis
+ksiazka 1
+---
+439
+13
+poniedzialek
+dlugopis
+dlugopis
+ksiazka 1
+ksiazka 2
+zeszyt 3
+---
+440
+13
+poniedzialek
+olowek
+ksiazka 2
+dlugopis
+ksiazka 1
+---
+441
+13
+poniedzialek
+zeszyt 2
+dlugopis
+dlugopis
+ksiazka 3
+---
+442
+13
+poniedzialek
+zeszyt
+ksiazka 2
+zeszyt
+dlugopis
+zeszyt 3
+---
+443
+13
+poniedzialek
+olowek
+ksiazka 3
+zeszyt
+---
+444
+13
+poniedzialek
+zeszyt
+ksiazka 3
+dlugopis
+ksiazka 1
+zeszyt 2
+---
+445
+13
+poniedzialek
+ksiazka 2
+ksiazka 2
+zeszyt 2
+---
+446
+13
+poniedzialek
+dlugopis
+ksiazka 2
+ksiazka 3
+---
+447
+13
+poniedzialek
+zeszyt 2
+ksiazka 1
+---
+448
+13
+poniedzialek
+dlugopis
+zeszyt 3
+zeszyt 2
+ksiazka 3
+---
+449
+13
+poniedzialek
+ksiazka 3
+dlugopis
+zeszyt 3
+ksiazka 3
+ksiazka 3
+---
+450
+13
+poniedzialek
+ksiazka 1
+ksiazka 2
+olowek
+zeszyt
+zeszyt 3
+---
+451
+13
+poniedzialek
+zeszyt
+olowek
+ksiazka 1
+ksiazka 2
+zeszyt
+---
+452
+13
+poniedzialek
+zeszyt 2
+ksiazka 3
+olowek
+---
+453
+13
+poniedzialek
+ksiazka 3
+olowek
+---
+454
+13
+poniedzialek
+zeszyt 2
+ksiazka 3
+zeszyt 3
+ksiazka 3
+zeszyt
+---
+455
+13
+poniedzialek
+ksiazka 1
+olowek
+ksiazka 3
+zeszyt 3
+---
+456
+13
+poniedzialek
+ksiazka 2
+zeszyt 3
+---
+457
+13
+poniedzialek
+olowek
+ksiazka 2
+---
+458
+13
+poniedzialek
+dlugopis
+ksiazka 1
+ksiazka 3
+---
+459
+13
+poniedzialek
+zeszyt 2
+zeszyt
+ksiazka 2
+---
+460
+13
+poniedzialek
+zeszyt 3
+---
+461
+13
+poniedzialek
+ksiazka 1
+ksiazka 1
+---
+462
+13
+poniedzialek
+ksiazka 1
+ksiazka 1
+zeszyt 3
+zeszyt 2
+---
+463
+13
+poniedzialek
+dlugopis
+---
+464
+13
+poniedzialek
+zeszyt
+dlugopis
+zeszyt 2
+ksiazka 3
+zeszyt 2
+---
+465
+13
+poniedzialek
+zeszyt
+---
+466
+13
+poniedzialek
+ksiazka 1
+---
+467
+13
+poniedzialek
+zeszyt 2
+zeszyt
+olowek
+ksiazka 1
+---
+468
+13
+poniedzialek
+dlugopis
+zeszyt
+zeszyt 2
+olowek
+zeszyt 3
+---
+469
+13
+poniedzialek
+olowek
+ksiazka 1
+ksiazka 2
+---
+470
+13
+poniedzialek
+zeszyt 3
+---
+471
+13
+poniedzialek
+zeszyt 2
+olowek
+olowek
+zeszyt
+ksiazka 1
+---
+472
+13
+poniedzialek
+ksiazka 1
+dlugopis
+olowek
+ksiazka 1
+---
+473
+13
+poniedzialek
+ksiazka 2
+ksiazka 3
+ksiazka 1
+zeszyt
+ksiazka 2
+---
+474
+13
+poniedzialek
+olowek
+dlugopis
+zeszyt 2
+zeszyt 2
+ksiazka 2
+---
+475
+13
+poniedzialek
+dlugopis
+ksiazka 2
+ksiazka 2
+zeszyt 3
+---
+476
+13
+poniedzialek
+zeszyt
+zeszyt
+olowek
+dlugopis
+olowek
+---
+477
+13
+poniedzialek
+ksiazka 1
+zeszyt
+---
+478
+13
+poniedzialek
+ksiazka 2
+olowek
+olowek
+ksiazka 3
+---
+479
+13
+poniedzialek
+ksiazka 3
+olowek
+ksiazka 1
+ksiazka 1
+---
+480
+13
+poniedzialek
+zeszyt 2
+ksiazka 3
+zeszyt
+dlugopis
+---
+481
+14
+wtorek
+zeszyt 2
+---
+482
+14
+wtorek
+dlugopis
+olowek
+ksiazka 2
+zeszyt
+ksiazka 3
+---
+483
+14
+wtorek
+olowek
+ksiazka 1
+---
+484
+14
+wtorek
+olowek
+zeszyt 2
+zeszyt 3
+ksiazka 3
+---
+485
+14
+wtorek
+ksiazka 2
+dlugopis
+zeszyt 3
+---
+486
+14
+wtorek
+ksiazka 3
+zeszyt 3
+dlugopis
+---
+487
+14
+wtorek
+dlugopis
+---
+488
+14
+wtorek
+zeszyt 2
+ksiazka 3
+---
+489
+14
+wtorek
+olowek
+olowek
+ksiazka 1
+---
+490
+14
+wtorek
+ksiazka 3
+olowek
+olowek
+---
+491
+14
+wtorek
+ksiazka 2
+ksiazka 3
+dlugopis
+zeszyt 2
+ksiazka 2
+---
+492
+14
+wtorek
+ksiazka 3
+ksiazka 2
+ksiazka 3
+olowek
+---
+493
+14
+wtorek
+olowek
+ksiazka 2
+zeszyt 3
+zeszyt
+---
+494
+14
+wtorek
+ksiazka 2
+---
+495
+14
+wtorek
+dlugopis
+zeszyt 3
+olowek
+zeszyt 2
+zeszyt 3
+---
+496
+14
+wtorek
+zeszyt 2
+olowek
+---
+497
+14
+wtorek
+zeszyt 3
+olowek
+dlugopis
+ksiazka 2
+---
+498
+14
+wtorek
+zeszyt 2
+ksiazka 1
+zeszyt
+zeszyt 2
+---
+499
+14
+wtorek
+ksiazka 1
+ksiazka 1
+ksiazka 1
+ksiazka 2
+zeszyt 3
+---
+500
+14
+wtorek
+zeszyt
+---
+501
+14
+wtorek
+zeszyt 2
+zeszyt
+zeszyt 3
+---
+502
+14
+wtorek
+zeszyt
+zeszyt
+dlugopis
+ksiazka 2
+---
+503
+15
+sroda
+zeszyt 2
+---
+504
+15
+sroda
+zeszyt
+zeszyt
+dlugopis
+olowek
+ksiazka 3
+---
+505
+15
+sroda
+zeszyt
+ksiazka 3
+---
+506
+15
+sroda
+ksiazka 3
+ksiazka 2
+zeszyt
+zeszyt 2
+ksiazka 1
+---
+507
+15
+sroda
+zeszyt 2
+olowek
+zeszyt 3
+olowek
+---
+508
+15
+sroda
+ksiazka 3
+---
+509
+15
+sroda
+olowek
+ksiazka 3
+olowek
+---
+510
+15
+sroda
+zeszyt
+olowek
+zeszyt 2
+zeszyt
+zeszyt 3
+---
+511
+15
+sroda
+ksiazka 1
+ksiazka 1
+---
+512
+15
+sroda
+ksiazka 2
+ksiazka 3
+olowek
+dlugopis
+---
+513
+15
+sroda
+zeszyt 3
+ksiazka 3
+zeszyt 2
+---
+514
+15
+sroda
+zeszyt
+zeszyt 3
+---
+515
+15
+sroda
+dlugopis
+zeszyt 2
+dlugopis
+---
+516
+15
+sroda
+ksiazka 1
+ksiazka 3
+ksiazka 3
+olowek
+---
+517
+15
+sroda
+zeszyt 3
+---
+518
+15
+sroda
+ksiazka 1
+ksiazka 1
+---
+519
+15
+sroda
+zeszyt
+zeszyt
+zeszyt 2
+ksiazka 1
+olowek
+---
+520
+15
+sroda
+ksiazka 2
+zeszyt
+---
+521
+15
+sroda
+ksiazka 1
+zeszyt
+dlugopis
+---
+522
+15
+sroda
+zeszyt 3
+ksiazka 1
+zeszyt
+ksiazka 1
+---
+523
+15
+sroda
+ksiazka 3
+zeszyt 3
+ksiazka 3
+zeszyt 3
+ksiazka 1
+---
+524
+15
+sroda
+zeszyt 3
+olowek
+ksiazka 3
+---
+525
+15
+sroda
+ksiazka 2
+olowek
+olowek
+---
+526
+15
+sroda
+zeszyt 3
+olowek
+dlugopis
+zeszyt 2
+zeszyt 2
+---
+527
+15
+sroda
+dlugopis
+---
+528
+15
+sroda
+zeszyt 2
+ksiazka 3
+zeszyt 3
+zeszyt 3
+ksiazka 1
+---
+529
+15
+sroda
+zeszyt
+ksiazka 2
+zeszyt
+zeszyt 2
+olowek
+---
+530
+15
+sroda
+ksiazka 1
+ksiazka 1
+zeszyt
+zeszyt
+---
+531
+15
+sroda
+ksiazka 2
+ksiazka 3
+---
+532
+15
+sroda
+zeszyt 3
+ksiazka 3
+ksiazka 2
+ksiazka 3
+---
+533
+15
+sroda
+zeszyt 3
+ksiazka 1
+---
+534
+15
+sroda
+ksiazka 1
+ksiazka 3
+---
+535
+15
+sroda
+ksiazka 2
+---
+536
+15
+sroda
+zeszyt
+zeszyt 3
+zeszyt
+zeszyt 2
+---
+537
+15
+sroda
+olowek
+zeszyt 2
+---
+538
+15
+sroda
+olowek
+olowek
+---
+539
+15
+sroda
+dlugopis
+ksiazka 2
+olowek
+---
+540
+15
+sroda
+ksiazka 2
+ksiazka 1
+zeszyt 3
+ksiazka 1
+zeszyt 3
+---
+541
+15
+sroda
+zeszyt
+olowek
+dlugopis
+zeszyt 3
+zeszyt 3
+---
+542
+15
+sroda
+ksiazka 2
+zeszyt 3
+ksiazka 3
+---
+543
+15
+sroda
+dlugopis
+dlugopis
+---
+544
+15
+sroda
+zeszyt 2
+ksiazka 2
+ksiazka 1
+ksiazka 1
+dlugopis
+---
+545
+15
+sroda
+ksiazka 2
+zeszyt 3
+dlugopis
+ksiazka 3
+ksiazka 1
+---
+546
+15
+sroda
+ksiazka 3
+ksiazka 1
+ksiazka 2
+---
+547
+15
+sroda
+olowek
+zeszyt 3
+olowek
+---
+548
+15
+sroda
+olowek
+zeszyt
+zeszyt
+ksiazka 1
+---
+549
+15
+sroda
+ksiazka 3
+---
+550
+15
+sroda
+ksiazka 2
+---
+551
+15
+sroda
+zeszyt 3
+zeszyt 3
+zeszyt
+---
+552
+15
+sroda
+zeszyt 3
+zeszyt 3
+zeszyt 2
+---
+553
+15
+sroda
+zeszyt 3
+ksiazka 2
+dlugopis
+ksiazka 1
+ksiazka 3
+---
+554
+15
+sroda
+ksiazka 2
+dlugopis
+zeszyt
+---
+555
+15
+sroda
+zeszyt 3
+olowek
+dlugopis
+---
+556
+16
+czwartek
+ksiazka 3
+ksiazka 3
+zeszyt 3
+dlugopis
+---
+557
+16
+czwartek
+zeszyt 2
+zeszyt 2
+zeszyt 2
+---
+558
+16
+czwartek
+olowek
+zeszyt 2
+ksiazka 3
+ksiazka 1
+---
+559
+16
+czwartek
+zeszyt 2
+zeszyt
+zeszyt 3
+---
+560
+16
+czwartek
+ksiazka 3
+olowek
+ksiazka 3
+---
+561
+16
+czwartek
+zeszyt 3
+zeszyt 3
+ksiazka 3
+ksiazka 2
+zeszyt 2
+---
+562
+16
+czwartek
+zeszyt
+olowek
+---
+563
+16
+czwartek
+zeszyt 3
+dlugopis
+---
+564
+16
+czwartek
+olowek
+zeszyt 3
+zeszyt
+zeszyt
+ksiazka 1
+---
+565
+16
+czwartek
+ksiazka 1
+olowek
+---
+566
+16
+czwartek
+ksiazka 1
+ksiazka 1
+ksiazka 1
+ksiazka 3
+---
+567
+16
+czwartek
+zeszyt 3
+dlugopis
+olowek
+---
+568
+16
+czwartek
+dlugopis
+---
+569
+16
+czwartek
+zeszyt 2
+dlugopis
+---
+570
+16
+czwartek
+zeszyt 3
+---
+571
+16
+czwartek
+ksiazka 1
+ksiazka 3
+ksiazka 1
+olowek
+---
+572
+16
+czwartek
+zeszyt 2
+zeszyt
+olowek
+---
+573
+16
+czwartek
+ksiazka 3
+ksiazka 3
+zeszyt
+zeszyt 2
+zeszyt
+---
+574
+16
+czwartek
+ksiazka 2
+zeszyt 3
+ksiazka 1
+---
+575
+17
+piatek
+ksiazka 1
+---
+576
+17
+piatek
+zeszyt 2
+zeszyt 2
+ksiazka 1
+dlugopis
+---
+577
+17
+piatek
+ksiazka 2
+ksiazka 1
+---
+578
+17
+piatek
+ksiazka 3
+zeszyt 3
+ksiazka 3
+olowek
+---
+579
+17
+piatek
+zeszyt 2
+---
+580
+17
+piatek
+ksiazka 3
+---
+581
+17
+piatek
+ksiazka 2
+zeszyt
+zeszyt 3
+---
+582
+17
+piatek
+zeszyt
+zeszyt 2
+ksiazka 2
+zeszyt 2
+zeszyt
+---
+583
+17
+piatek
+ksiazka 1
+ksiazka 3
+dlugopis
+---
+584
+17
+piatek
+zeszyt 3
+ksiazka 2
+dlugopis
+zeszyt
+zeszyt 2
+---
+585
+17
+piatek
+zeszyt 2
+---
+586
+17
+piatek
+zeszyt 3
+ksiazka 2
+zeszyt 2
+dlugopis
+zeszyt 3
+---
+587
+17
+piatek
+zeszyt 3
+---
+588
+17
+piatek
+zeszyt
+dlugopis
+---
+589
+17
+piatek
+ksiazka 1
+ksiazka 1
+ksiazka 1
+zeszyt 2
+---
+590
+17
+piatek
+zeszyt 3
+zeszyt 3
+ksiazka 2
+zeszyt
+zeszyt 2
+---
+591
+17
+piatek
+ksiazka 2
+ksiazka 2
+dlugopis
+ksiazka 3
+---
+592
+17
+piatek
+olowek
+ksiazka 3
+---
+593
+17
+piatek
+ksiazka 3
+ksiazka 2
+ksiazka 2
+---
+594
+17
+piatek
+ksiazka 3
+olowek
+dlugopis
+---
+595
+17
+piatek
+ksiazka 3
+olowek
+olowek
+ksiazka 1
+ksiazka 1
+---
+596
+17
+piatek
+ksiazka 3
+ksiazka 1
+olowek
+---
+597
+17
+piatek
+olowek
+---
+598
+17
+piatek
+ksiazka 3
+zeszyt 2
+olowek
+zeszyt 3
+---
+599
+17
+piatek
+olowek
+ksiazka 3
+olowek
+zeszyt 2
+---
+600
+17
+piatek
+dlugopis
+ksiazka 3
+zeszyt 2
+ksiazka 3
+ksiazka 2
+---
+601
+17
+piatek
+olowek
+ksiazka 2
+ksiazka 2
+zeszyt
+---
+602
+17
+piatek
+olowek
+dlugopis
+ksiazka 2
+---
+603
+17
+piatek
+zeszyt 3
+zeszyt
+ksiazka 2
+---
+604
+17
+piatek
+dlugopis
+zeszyt 3
+---
+605
+17
+piatek
+dlugopis
+---
+606
+17
+piatek
+olowek
+ksiazka 3
+---
+607
+17
+piatek
+ksiazka 2
+---
+608
+17
+piatek
+ksiazka 1
+zeszyt 3
+dlugopis
+ksiazka 2
+ksiazka 1
+---
+609
+17
+piatek
+ksiazka 3
+dlugopis
+zeszyt 3
+---
+610
+17
+piatek
+dlugopis
+zeszyt 2
+---
+611
+17
+piatek
+dlugopis
+ksiazka 3
+ksiazka 1
+zeszyt
+---
+612
+17
+piatek
+ksiazka 3
+zeszyt
+olowek
+---
+613
+17
+piatek
+ksiazka 1
+ksiazka 3
+zeszyt 2
+ksiazka 1
+---
+614
+17
+piatek
+ksiazka 2
+dlugopis
+---
+615
+17
+piatek
+ksiazka 3
+dlugopis
+zeszyt 3
+dlugopis
+zeszyt
+---
+616
+17
+piatek
+zeszyt 2
+zeszyt
+dlugopis
+zeszyt 3
+---
+617
+17
+piatek
+ksiazka 1
+---
+618
+17
+piatek
+zeszyt
+ksiazka 1
+zeszyt
+dlugopis
+---
+619
+18
+sobota
+olowek
+ksiazka 3
+ksiazka 2
+ksiazka 1
+zeszyt 2
+---
+620
+18
+sobota
+ksiazka 1
+---
+621
+18
+sobota
+dlugopis
+ksiazka 2
+dlugopis
+zeszyt 2
+---
+622
+18
+sobota
+dlugopis
+zeszyt 3
+zeszyt
+zeszyt 3
+---
+623
+18
+sobota
+ksiazka 3
+---
+624
+18
+sobota
+zeszyt 3
+ksiazka 2
+ksiazka 3
+dlugopis
+---
+625
+18
+sobota
+zeszyt 2
+ksiazka 3
+dlugopis
+dlugopis
+---
+626
+18
+sobota
+zeszyt 2
+zeszyt
+dlugopis
+ksiazka 3
+ksiazka 3
+---
+627
+18
+sobota
+olowek
+dlugopis
+---
+628
+18
+sobota
+olowek
+ksiazka 3
+ksiazka 1
+---
+629
+18
+sobota
+dlugopis
+zeszyt 3
+olowek
+dlugopis
+ksiazka 2
+---
+630
+18
+sobota
+ksiazka 1
+ksiazka 2
+---
+631
+19
+poniedzialek
+ksiazka 2
+zeszyt
+dlugopis
+---
+632
+19
+poniedzialek
+ksiazka 1
+ksiazka 3
+olowek
+---
+633
+19
+poniedzialek
+ksiazka 1
+zeszyt 2
+---
+634
+19
+poniedzialek
+ksiazka 2
+ksiazka 1
+---
+635
+19
+poniedzialek
+ksiazka 1
+---
+636
+19
+poniedzialek
+zeszyt
+---
+637
+19
+poniedzialek
+ksiazka 1
+zeszyt 3
+olowek
+ksiazka 2
+zeszyt 3
+---
+638
+19
+poniedzialek
+ksiazka 3
+zeszyt 3
+zeszyt
+ksiazka 2
+ksiazka 2
+---
+639
+19
+poniedzialek
+dlugopis
+ksiazka 3
+zeszyt 2
+ksiazka 1
+olowek
+---
+640
+19
+poniedzialek
+ksiazka 3
+ksiazka 1
+---
+641
+19
+poniedzialek
+zeszyt 3
+zeszyt
+olowek
+---
+642
+19
+poniedzialek
+ksiazka 1
+dlugopis
+zeszyt
+zeszyt
+---
+643
+19
+poniedzialek
+olowek
+ksiazka 3
+---
+644
+19
+poniedzialek
+zeszyt 3
+zeszyt
+---
+645
+19
+poniedzialek
+zeszyt 2
+ksiazka 3
+olowek
+dlugopis
+dlugopis
+---
+646
+19
+poniedzialek
+zeszyt 2
+ksiazka 3
+ksiazka 1
+ksiazka 2
+ksiazka 1
+---
+647
+19
+poniedzialek
+ksiazka 1
+ksiazka 1
+ksiazka 3
+zeszyt
+---
+648
+19
+poniedzialek
+olowek
+ksiazka 1
+---
+649
+19
+poniedzialek
+zeszyt 3
+ksiazka 2
+zeszyt
+---
+650
+19
+poniedzialek
+dlugopis
+zeszyt
+ksiazka 1
+olowek
+zeszyt 2
+---
+651
+19
+poniedzialek
+dlugopis
+zeszyt
+ksiazka 1
+ksiazka 3
+---
+652
+19
+poniedzialek
+ksiazka 3
+---
+653
+19
+poniedzialek
+ksiazka 1
+---
+654
+19
+poniedzialek
+zeszyt
+zeszyt 3
+---
+655
+19
+poniedzialek
+ksiazka 3
+zeszyt
+dlugopis
+---
+656
+19
+poniedzialek
+dlugopis
+olowek
+zeszyt 2
+ksiazka 2
+---
+657
+19
+poniedzialek
+dlugopis
+dlugopis
+ksiazka 2
+---
+658
+19
+poniedzialek
+zeszyt 2
+dlugopis
+ksiazka 2
+---
+659
+19
+poniedzialek
+ksiazka 3
+olowek
+zeszyt 2
+ksiazka 3
+---
+660
+19
+poniedzialek
+ksiazka 1
+---
+661
+19
+poniedzialek
+zeszyt 3
+dlugopis
+dlugopis
+---
+662
+19
+poniedzialek
+ksiazka 3
+---
+663
+19
+poniedzialek
+dlugopis
+---
+664
+19
+poniedzialek
+zeszyt 3
+zeszyt
+ksiazka 1
+zeszyt 2
+---
+665
+19
+poniedzialek
+ksiazka 3
+ksiazka 2
+olowek
+---
+666
+19
+poniedzialek
+ksiazka 3
+ksiazka 2
+zeszyt
+zeszyt 3
+---
+667
+19
+poniedzialek
+zeszyt 2
+zeszyt 2
+---
+668
+19
+poniedzialek
+ksiazka 2
+olowek
+ksiazka 3
+---
+669
+19
+poniedzialek
+ksiazka 1
+dlugopis
+---
+670
+19
+poniedzialek
+zeszyt
+zeszyt
+---
+671
+19
+poniedzialek
+ksiazka 1
+zeszyt
+ksiazka 1
+zeszyt
+dlugopis
+---
+672
+19
+poniedzialek
+olowek
+zeszyt 2
+ksiazka 1
+zeszyt
+olowek
+---
+673
+19
+poniedzialek
+zeszyt 3
+ksiazka 3
+ksiazka 1
+---
+674
+19
+poniedzialek
+ksiazka 3
+ksiazka 1
+olowek
+olowek
+zeszyt 2
+---
+675
+19
+poniedzialek
+zeszyt
+ksiazka 3
+olowek
+ksiazka 2
+ksiazka 3
+---
+676
+19
+poniedzialek
+zeszyt
+---
+677
+19
+poniedzialek
+zeszyt 2
+zeszyt
+ksiazka 1
+ksiazka 2
+---
+678
+19
+poniedzialek
+olowek
+---
+679
+19
+poniedzialek
+ksiazka 1
+ksiazka 1
+dlugopis
+zeszyt
+dlugopis
+---
+680
+19
+poniedzialek
+zeszyt 3
+ksiazka 2
+ksiazka 3
+---
+681
+19
+poniedzialek
+zeszyt 2
+zeszyt 2
+---
+682
+19
+poniedzialek
+ksiazka 2
+---
+683
+20
+wtorek
+ksiazka 2
+ksiazka 3
+zeszyt
+---
+684
+20
+wtorek
+zeszyt 3
+olowek
+olowek
+ksiazka 3
+zeszyt 2
+---
+685
+20
+wtorek
+ksiazka 1
+---
+686
+20
+wtorek
+zeszyt
+dlugopis
+ksiazka 3
+---
+687
+20
+wtorek
+ksiazka 2
+olowek
+ksiazka 3
+---
+688
+20
+wtorek
+ksiazka 2
+ksiazka 2
+zeszyt 3
+zeszyt 3
+ksiazka 2
+---
+689
+20
+wtorek
+ksiazka 3
+olowek
+zeszyt
+ksiazka 3
+---
+690
+20
+wtorek
+zeszyt
+zeszyt 2
+zeszyt 2
+ksiazka 3
+ksiazka 2
+---
+691
+20
+wtorek
+ksiazka 1
+---
+692
+20
+wtorek
+ksiazka 1
+ksiazka 1
+---
+693
+20
+wtorek
+ksiazka 2
+---
+694
+20
+wtorek
+zeszyt
+---
+695
+20
+wtorek
+ksiazka 2
+---
+696
+20
+wtorek
+zeszyt
+olowek
+ksiazka 3
+olowek
+---
+697
+20
+wtorek
+zeszyt 2
+ksiazka 3
+---
+698
+20
+wtorek
+zeszyt 2
+zeszyt 2
+olowek
+olowek
+ksiazka 2
+---
+699
+20
+wtorek
+zeszyt 2
+zeszyt
+zeszyt 2
+zeszyt 2
+olowek
+---
+700
+20
+wtorek
+ksiazka 1
+zeszyt 2
+ksiazka 3
+dlugopis
+---
+701
+20
+wtorek
+olowek
+zeszyt 3
+---
+702
+20
+wtorek
+zeszyt 2
+ksiazka 2
+zeszyt
+zeszyt 2
+dlugopis
+---
+703
+20
+wtorek
+zeszyt 3
+dlugopis
+---
+704
+20
+wtorek
+zeszyt
+ksiazka 2
+zeszyt 3
+zeszyt 2
+zeszyt
+---
+705
+20
+wtorek
+ksiazka 3
+zeszyt 2
+zeszyt 3
+ksiazka 1
+ksiazka 1
+---
+706
+20
+wtorek
+zeszyt
+olowek
+ksiazka 3
+---
+707
+20
+wtorek
+ksiazka 1
+olowek
+dlugopis
+olowek
+dlugopis
+---
+708
+20
+wtorek
+ksiazka 2
+ksiazka 1
+dlugopis
+olowek
+---
+709
+20
+wtorek
+zeszyt
+---
+710
+20
+wtorek
+zeszyt 3
+dlugopis
+---
+711
+20
+wtorek
+ksiazka 3
+zeszyt
+olowek
+---
+712
+20
+wtorek
+ksiazka 2
+---
+713
+20
+wtorek
+ksiazka 2
+dlugopis
+olowek
+olowek
+---
+714
+20
+wtorek
+zeszyt
+olowek
+ksiazka 2
+---
+715
+20
+wtorek
+dlugopis
+ksiazka 1
+ksiazka 2
+---
+716
+20
+wtorek
+zeszyt 3
+zeszyt 3
+---
+717
+20
+wtorek
+ksiazka 1
+---
+718
+20
+wtorek
+zeszyt
+zeszyt 3
+zeszyt
+dlugopis
+---
+719
+20
+wtorek
+ksiazka 3
+ksiazka 2
+ksiazka 3
+---
+720
+20
+wtorek
+ksiazka 2
+---
+721
+20
+wtorek
+ksiazka 2
+olowek
+---
+722
+20
+wtorek
+olowek
+olowek
+---
+723
+20
+wtorek
+zeszyt 3
+---
+724
+20
+wtorek
+zeszyt
+dlugopis
+zeszyt 2
+zeszyt 2
+zeszyt 3
+---
+725
+20
+wtorek
+ksiazka 3
+ksiazka 2
+ksiazka 1
+olowek
+---
+726
+20
+wtorek
+ksiazka 3
+zeszyt 3
+---
+727
+20
+wtorek
+ksiazka 2
+ksiazka 2
+ksiazka 1
+---
+728
+21
+sroda
+ksiazka 2
+zeszyt
+---
+729
+21
+sroda
+olowek
+zeszyt 2
+---
+730
+21
+sroda
+ksiazka 1
+zeszyt
+olowek
+zeszyt
+ksiazka 3
+---
+731
+21
+sroda
+ksiazka 3
+---
+732
+21
+sroda
+dlugopis
+---
+733
+21
+sroda
+zeszyt 3
+zeszyt 3
+zeszyt
+---
+734
+21
+sroda
+zeszyt
+zeszyt 3
+zeszyt
+olowek
+ksiazka 2
+---
+735
+21
+sroda
+olowek
+zeszyt 3
+olowek
+---
+736
+21
+sroda
+ksiazka 1
+zeszyt 3
+dlugopis
+---
+737
+21
+sroda
+ksiazka 1
+zeszyt 2
+---
+738
+21
+sroda
+zeszyt 2
+dlugopis
+ksiazka 1
+olowek
+zeszyt 2
+---
+739
+21
+sroda
+zeszyt
+dlugopis
+ksiazka 3
+olowek
+---
+740
+21
+sroda
+zeszyt 3
+zeszyt 2
+ksiazka 3
+dlugopis
+---
+741
+21
+sroda
+zeszyt 3
+zeszyt
+olowek
+zeszyt 3
+dlugopis
+---
+742
+21
+sroda
+zeszyt 3
+ksiazka 1
+zeszyt 3
+olowek
+zeszyt
+---
+743
+21
+sroda
+dlugopis
+---
+744
+21
+sroda
+olowek
+ksiazka 1
+zeszyt 3
+ksiazka 2
+ksiazka 2
+---
+745
+21
+sroda
+zeszyt
+---
+746
+22
+czwartek
+ksiazka 1
+ksiazka 2
+---
+747
+22
+czwartek
+zeszyt
+zeszyt
+olowek
+---
+748
+22
+czwartek
+dlugopis
+ksiazka 3
+zeszyt 2
+ksiazka 1
+---
+749
+22
+czwartek
+zeszyt 3
+zeszyt 2
+zeszyt 3
+---
+750
+22
+czwartek
+ksiazka 1
+---
+751
+22
+czwartek
+olowek
+---
+752
+22
+czwartek
+zeszyt
+ksiazka 2
+ksiazka 3
+---
+753
+22
+czwartek
+ksiazka 1
+ksiazka 3
+zeszyt 3
+zeszyt
+ksiazka 1
+---
+754
+22
+czwartek
+ksiazka 3
+ksiazka 1
+---
+755
+22
+czwartek
+ksiazka 2
+---
+756
+22
+czwartek
+zeszyt
+olowek
+---
+757
+22
+czwartek
+olowek
+---
+758
+22
+czwartek
+ksiazka 3
+---
+759
+22
+czwartek
+zeszyt
+dlugopis
+olowek
+---
+760
+22
+czwartek
+dlugopis
+zeszyt
+zeszyt 2
+ksiazka 1
+---
+761
+22
+czwartek
+ksiazka 3
+ksiazka 2
+---
+762
+22
+czwartek
+olowek
+zeszyt 2
+ksiazka 1
+---
+763
+22
+czwartek
+zeszyt 2
+dlugopis
+---
+764
+22
+czwartek
+zeszyt
+ksiazka 2
+zeszyt
+ksiazka 3
+---
+765
+22
+czwartek
+zeszyt 2
+ksiazka 2
+---
+766
+23
+piatek
+zeszyt 3
+---
+767
+23
+piatek
+zeszyt 3
+dlugopis
+ksiazka 2
+ksiazka 1
+---
+768
+23
+piatek
+ksiazka 2
+zeszyt 3
+zeszyt
+---
+769
+23
+piatek
+ksiazka 2
+dlugopis
+zeszyt 3
+zeszyt 2
+olowek
+---
+770
+23
+piatek
+zeszyt 3
+ksiazka 3
+---
+771
+23
+piatek
+ksiazka 1
+zeszyt
+zeszyt
+---
+772
+23
+piatek
+dlugopis
+ksiazka 1
+dlugopis
+ksiazka 2
+---
+773
+23
+piatek
+ksiazka 1
+dlugopis
+---
+774
+23
+piatek
+zeszyt 2
+zeszyt
+ksiazka 1
+---
+775
+23
+piatek
+olowek
+---
+776
+23
+piatek
+zeszyt 3
+dlugopis
+zeszyt
+dlugopis
+ksiazka 3
+---
+777
+23
+piatek
+dlugopis
+zeszyt 2
+zeszyt 3
+zeszyt 2
+dlugopis
+---
+778
+23
+piatek
+dlugopis
+olowek
+olowek
+zeszyt 3
+---
+779
+23
+piatek
+zeszyt 2
+olowek
+---
+780
+23
+piatek
+zeszyt 2
+---
+781
+23
+piatek
+dlugopis
+ksiazka 2
+dlugopis
+dlugopis
+zeszyt 2
+---
+782
+23
+piatek
+zeszyt 2
+zeszyt 3
+zeszyt 2
+zeszyt 2
+dlugopis
+---
+783
+23
+piatek
+ksiazka 2
+olowek
+olowek
+dlugopis
+---
+784
+23
+piatek
+zeszyt
+ksiazka 3
+zeszyt
+---
+785
+23
+piatek
+ksiazka 3
+ksiazka 1
+---
+786
+23
+piatek
+zeszyt 3
+---
+787
+23
+piatek
+ksiazka 3
+zeszyt 2
+zeszyt
+ksiazka 1
+ksiazka 1
+---
+788
+23
+piatek
+dlugopis
+zeszyt 3
+dlugopis
+dlugopis
+---
+789
+23
+piatek
+ksiazka 3
+olowek
+ksiazka 1
+ksiazka 2
+---
+790
+23
+piatek
+zeszyt
+ksiazka 2
+---
+791
+23
+piatek
+olowek
+zeszyt 2
+dlugopis
+---
+792
+23
+piatek
+olowek
+zeszyt 2
+zeszyt 2
+---
+793
+23
+piatek
+dlugopis
+ksiazka 3
+dlugopis
+ksiazka 1
+zeszyt 2
+---
+794
+23
+piatek
+zeszyt 2
+ksiazka 2
+ksiazka 1
+zeszyt
+ksiazka 2
+---
+795
+23
+piatek
+olowek
+ksiazka 2
+ksiazka 1
+---
+796
+23
+piatek
+olowek
+zeszyt 3
+dlugopis
+olowek
+---
+797
+23
+piatek
+ksiazka 3
+olowek
+dlugopis
+dlugopis
+zeszyt 2
+---
+798
+23
+piatek
+ksiazka 3
+zeszyt 2
+zeszyt 2
+---
+799
+23
+piatek
+dlugopis
+ksiazka 3
+---
+800
+23
+piatek
+zeszyt 3
+---
+801
+23
+piatek
+ksiazka 1
+---
+802
+23
+piatek
+zeszyt 2
+dlugopis
+olowek
+ksiazka 2
+---
+803
+23
+piatek
+ksiazka 3
+zeszyt
+ksiazka 1
+zeszyt 2
+zeszyt
+---
+804
+23
+piatek
+olowek
+dlugopis
+zeszyt
+---
+805
+23
+piatek
+ksiazka 3
+zeszyt 2
+ksiazka 3
+ksiazka 3
+zeszyt 3
+---
+806
+23
+piatek
+ksiazka 2
+zeszyt 3
+ksiazka 3
+---
+807
+23
+piatek
+ksiazka 2
+olowek
+zeszyt
+ksiazka 2
+ksiazka 3
+---
+808
+23
+piatek
+zeszyt 3
+olowek
+---
+809
+24
+sobota
+ksiazka 1
+zeszyt 3
+zeszyt
+zeszyt 2
+---
+810
+24
+sobota
+ksiazka 3
+---
+811
+24
+sobota
+ksiazka 1
+zeszyt
+---
+812
+24
+sobota
+zeszyt 3
+ksiazka 1
+zeszyt 2
+ksiazka 3
+ksiazka 1
+---
+813
+24
+sobota
+zeszyt
+zeszyt 3
+---
+814
+24
+sobota
+zeszyt 3
+---
+815
+24
+sobota
+ksiazka 2
+olowek
+zeszyt 3
+---
+816
+24
+sobota
+ksiazka 3
+ksiazka 3
+ksiazka 3
+ksiazka 1
+zeszyt 2
+---
+817
+24
+sobota
+ksiazka 1
+dlugopis
+---
+818
+24
+sobota
+zeszyt 3
+ksiazka 3
+dlugopis
+zeszyt 3
+dlugopis
+---
+819
+24
+sobota
+zeszyt 3
+olowek
+---
+820
+24
+sobota
+ksiazka 3
+ksiazka 1
+ksiazka 1
+dlugopis
+---
+821
+24
+sobota
+zeszyt 2
+olowek
+ksiazka 2
+---
+822
+24
+sobota
+ksiazka 3
+ksiazka 2
+ksiazka 2
+ksiazka 1
+ksiazka 2
+---
+823
+24
+sobota
+ksiazka 3
+ksiazka 3
+ksiazka 2
+zeszyt
+dlugopis
+---
+824
+24
+sobota
+olowek
+ksiazka 3
+---
+825
+24
+sobota
+ksiazka 3
+ksiazka 3
+dlugopis
+ksiazka 1
+zeszyt
+---
+826
+24
+sobota
+zeszyt
+---
+827
+24
+sobota
+ksiazka 2
+ksiazka 3
+zeszyt 3
+olowek
+---
+828
+24
+sobota
+zeszyt
+dlugopis
+dlugopis
+zeszyt 3
+---
+829
+24
+sobota
+zeszyt
+zeszyt 2
+zeszyt 2
+---
+830
+24
+sobota
+ksiazka 1
+zeszyt 3
+ksiazka 3
+ksiazka 2
+ksiazka 2
+---
+831
+25
+poniedzialek
+zeszyt
+zeszyt 3
+zeszyt 2
+dlugopis
+zeszyt 2
+---
+832
+25
+poniedzialek
+ksiazka 1
+---
+833
+25
+poniedzialek
+olowek
+ksiazka 2
+dlugopis
+olowek
+---
+834
+25
+poniedzialek
+zeszyt 2
+ksiazka 1
+zeszyt 2
+---
+835
+25
+poniedzialek
+zeszyt
+dlugopis
+zeszyt
+ksiazka 2
+---
+836
+25
+poniedzialek
+zeszyt
+zeszyt
+dlugopis
+ksiazka 1
+ksiazka 1
+---
+837
+25
+poniedzialek
+zeszyt 3
+ksiazka 3
+---
+838
+25
+poniedzialek
+ksiazka 3
+zeszyt 2
+---
+839
+25
+poniedzialek
+zeszyt
+olowek
+zeszyt 3
+ksiazka 3
+---
+840
+25
+poniedzialek
+ksiazka 2
+ksiazka 3
+zeszyt 3
+zeszyt 3
+dlugopis
+---
+841
+25
+poniedzialek
+olowek
+---
+842
+25
+poniedzialek
+ksiazka 3
+zeszyt
+dlugopis
+---
+843
+25
+poniedzialek
+zeszyt 3
+---
+844
+25
+poniedzialek
+ksiazka 1
+ksiazka 1
+---
+845
+25
+poniedzialek
+ksiazka 3
+zeszyt 2
+ksiazka 2
+---
+846
+25
+poniedzialek
+ksiazka 3
+ksiazka 3
+ksiazka 1
+ksiazka 1
+---
+847
+25
+poniedzialek
+zeszyt 2
+dlugopis
+dlugopis
+zeszyt 2
+ksiazka 3
+---
+848
+25
+poniedzialek
+ksiazka 1
+ksiazka 3
+zeszyt 2
+dlugopis
+---
+849
+26
+wtorek
+zeszyt
+ksiazka 1
+---
+850
+26
+wtorek
+zeszyt
+ksiazka 1
+ksiazka 1
+olowek
+---
+851
+26
+wtorek
+olowek
+olowek
+zeszyt 3
+dlugopis
+---
+852
+26
+wtorek
+zeszyt
+zeszyt
+---
+853
+26
+wtorek
+ksiazka 1
+olowek
+ksiazka 2
+dlugopis
+ksiazka 1
+---
+854
+26
+wtorek
+ksiazka 1
+---
+855
+26
+wtorek
+olowek
+ksiazka 3
+dlugopis
+ksiazka 2
+---
+856
+26
+wtorek
+zeszyt
+ksiazka 3
+---
+857
+26
+wtorek
+zeszyt 3
+ksiazka 3
+---
+858
+26
+wtorek
+ksiazka 3
+ksiazka 3
+zeszyt
+zeszyt 3
+---
+859
+26
+wtorek
+zeszyt 3
+---
+860
+26
+wtorek
+olowek
+dlugopis
+zeszyt
+olowek
+---
+861
+26
+wtorek
+ksiazka 3
+zeszyt
+---
+862
+26
+wtorek
+ksiazka 2
+dlugopis
+---
+863
+26
+wtorek
+ksiazka 1
+zeszyt 3
+zeszyt 2
+ksiazka 1
+ksiazka 2
+---
+864
+26
+wtorek
+ksiazka 1
+---
+865
+26
+wtorek
+zeszyt 3
+zeszyt
+ksiazka 3
+---
+866
+26
+wtorek
+zeszyt 2
+dlugopis
+zeszyt 3
+ksiazka 1
+---
+867
+26
+wtorek
+dlugopis
+olowek
+dlugopis
+ksiazka 1
+---
+868
+26
+wtorek
+ksiazka 2
+dlugopis
+zeszyt 2
+---
+869
+26
+wtorek
+zeszyt 2
+---
+870
+26
+wtorek
+dlugopis
+olowek
+---
+871
+26
+wtorek
+ksiazka 2
+ksiazka 3
+dlugopis
+ksiazka 3
+---
+872
+26
+wtorek
+zeszyt
+zeszyt
+olowek
+---
+873
+26
+wtorek
+olowek
+ksiazka 1
+ksiazka 3
+zeszyt 2
+---
+874
+26
+wtorek
+zeszyt 3
+ksiazka 2
+zeszyt 3
+ksiazka 2
+---
+875
+26
+wtorek
+zeszyt 3
+---
+876
+26
+wtorek
+zeszyt 2
+ksiazka 1
+olowek
+ksiazka 2
+---
+877
+26
+wtorek
+ksiazka 1
+ksiazka 3
+olowek
+dlugopis
+---
+878
+26
+wtorek
+ksiazka 1
+---
+879
+26
+wtorek
+ksiazka 3
+ksiazka 3
+---
+880
+26
+wtorek
+zeszyt
+zeszyt 3
+zeszyt
+zeszyt 2
+zeszyt 3
+---
+881
+26
+wtorek
+ksiazka 1
+zeszyt 3
+zeszyt 2
+ksiazka 2
+olowek
+---
+882
+26
+wtorek
+zeszyt 2
+---
+883
+26
+wtorek
+ksiazka 1
+---
+884
+26
+wtorek
+ksiazka 3
+ksiazka 1
+---
+885
+26
+wtorek
+dlugopis
+zeszyt 2
+zeszyt 2
+zeszyt
+---
+886
+26
+wtorek
+dlugopis
+zeszyt
+---
+887
+26
+wtorek
+dlugopis
+ksiazka 1
+ksiazka 3
+ksiazka 1
+ksiazka 1
+---
+888
+26
+wtorek
+zeszyt 3
+zeszyt
+ksiazka 2
+---
+889
+26
+wtorek
+zeszyt 3
+zeszyt
+---
+890
+26
+wtorek
+zeszyt 2
+zeszyt 3
+---
+891
+26
+wtorek
+dlugopis
+olowek
+zeszyt
+---
+892
+26
+wtorek
+olowek
+zeszyt
+dlugopis
+---
+893
+26
+wtorek
+ksiazka 2
+zeszyt 2
+olowek
+zeszyt 2
+---
+894
+26
+wtorek
+ksiazka 2
+ksiazka 1
+ksiazka 1
+---
+895
+26
+wtorek
+dlugopis
+---
+896
+26
+wtorek
+zeszyt 2
+olowek
+ksiazka 1
+ksiazka 2
+zeszyt 2
+---
+897
+26
+wtorek
+zeszyt
+---
+898
+26
+wtorek
+ksiazka 1
+---
+899
+26
+wtorek
+zeszyt
+dlugopis
+zeszyt 2
+---
+900
+26
+wtorek
+zeszyt 3
+---
+901
+27
+sroda
+zeszyt
+zeszyt 3
+ksiazka 1
+ksiazka 1
+---
+902
+27
+sroda
+olowek
+zeszyt
+---
+903
+27
+sroda
+ksiazka 2
+---
+904
+27
+sroda
+zeszyt
+ksiazka 1
+ksiazka 2
+olowek
+zeszyt 3
+---
+905
+27
+sroda
+olowek
+zeszyt
+zeszyt 3
+---
+906
+27
+sroda
+zeszyt 3
+ksiazka 2
+zeszyt 3
+zeszyt 3
+---
+907
+27
+sroda
+olowek
+zeszyt 3
+ksiazka 1
+olowek
+dlugopis
+---
+908
+27
+sroda
+olowek
+zeszyt 3
+---
+909
+27
+sroda
+zeszyt 3
+dlugopis
+dlugopis
+---
+910
+27
+sroda
+ksiazka 3
+ksiazka 2
+zeszyt 2
+olowek
+---
+911
+27
+sroda
+olowek
+---
+912
+27
+sroda
+ksiazka 3
+zeszyt
+---
+913
+27
+sroda
+ksiazka 3
+ksiazka 3
+dlugopis
+zeszyt
+---
+914
+27
+sroda
+zeszyt
+dlugopis
+zeszyt 3
+dlugopis
+zeszyt 3
+---
+915
+27
+sroda
+ksiazka 1
+ksiazka 2
+zeszyt
+olowek
+---
+916
+27
+sroda
+olowek
+---
+917
+27
+sroda
+ksiazka 2
+ksiazka 3
+olowek
+dlugopis
+---
+918
+27
+sroda
+zeszyt 3
+zeszyt 3
+ksiazka 1
+zeszyt 3
+---
+919
+27
+sroda
+zeszyt
+ksiazka 1
+olowek
+---
+920
+27
+sroda
+dlugopis
+dlugopis
+ksiazka 3
+---
+921
+27
+sroda
+zeszyt 3
+ksiazka 3
+olowek
+ksiazka 1
+ksiazka 2
+---
+922
+27
+sroda
+dlugopis
+olowek
+zeszyt 3
+zeszyt
+---
+923
+27
+sroda
+olowek
+ksiazka 2
+---
+924
+27
+sroda
+dlugopis
+ksiazka 1
+---
+925
+27
+sroda
+zeszyt 3
+---
+926
+27
+sroda
+ksiazka 3
+zeszyt 2
+ksiazka 2
+ksiazka 3
+dlugopis
+---
+927
+27
+sroda
+zeszyt 3
+---
+928
+27
+sroda
+ksiazka 1
+ksiazka 1
+ksiazka 2
+olowek
+---
+929
+27
+sroda
+olowek
+zeszyt 3
+ksiazka 2
+ksiazka 2
+---
+930
+27
+sroda
+zeszyt 3
+zeszyt 2
+---
+931
+27
+sroda
+olowek
+olowek
+ksiazka 2
+ksiazka 3
+---
+932
+27
+sroda
+ksiazka 1
+zeszyt 2
+---
+933
+27
+sroda
+olowek
+olowek
+dlugopis
+---
+934
+27
+sroda
+olowek
+olowek
+---
+935
+27
+sroda
+dlugopis
+olowek
+olowek
+zeszyt 3
+---
+936
+27
+sroda
+ksiazka 1
+zeszyt
+zeszyt
+---
+937
+27
+sroda
+ksiazka 2
+zeszyt
+olowek
+ksiazka 3
+olowek
+---
+938
+27
+sroda
+olowek
+---
+939
+27
+sroda
+olowek
+---
+940
+27
+sroda
+dlugopis
+ksiazka 2
+ksiazka 1
+ksiazka 2
+---
+941
+27
+sroda
+zeszyt
+---
+942
+27
+sroda
+ksiazka 2
+zeszyt
+---
+943
+27
+sroda
+ksiazka 2
+ksiazka 2
+zeszyt 3
+---
+944
+27
+sroda
+zeszyt 3
+---
+945
+27
+sroda
+zeszyt
+olowek
+ksiazka 2
+olowek
+---
+946
+27
+sroda
+ksiazka 2
+---
+947
+27
+sroda
+dlugopis
+olowek
+---
+948
+27
+sroda
+ksiazka 3
+zeszyt
+olowek
+---
+949
+27
+sroda
+dlugopis
+zeszyt
+zeszyt
+---
+950
+27
+sroda
+zeszyt 2
+olowek
+---
+951
+27
+sroda
+zeszyt 2
+dlugopis
+zeszyt 3
+zeszyt 3
+---
+952
+27
+sroda
+zeszyt 2
+olowek
+ksiazka 1
+---
+953
+27
+sroda
+zeszyt 2
+---
+954
+27
+sroda
+zeszyt
+---
+955
+28
+czwartek
+ksiazka 1
+ksiazka 3
+ksiazka 3
+ksiazka 3
+ksiazka 3
+---
+956
+28
+czwartek
+zeszyt 3
+ksiazka 2
+olowek
+zeszyt
+ksiazka 3
+---
+957
+28
+czwartek
+ksiazka 3
+dlugopis
+---
+958
+28
+czwartek
+zeszyt 2
+zeszyt 3
+ksiazka 2
+olowek
+zeszyt 3
+---
+959
+28
+czwartek
+zeszyt
+ksiazka 2
+olowek
+---
+960
+28
+czwartek
+zeszyt 2
+ksiazka 3
+---
+961
+28
+czwartek
+zeszyt 3
+olowek
+zeszyt
+---
+962
+28
+czwartek
+ksiazka 1
+zeszyt 3
+ksiazka 1
+dlugopis
+ksiazka 3
+---
+963
+28
+czwartek
+dlugopis
+ksiazka 3
+ksiazka 1
+---
+964
+28
+czwartek
+olowek
+ksiazka 3
+---
+965
+28
+czwartek
+zeszyt 2
+---
+966
+28
+czwartek
+dlugopis
+zeszyt 3
+dlugopis
+---
+967
+28
+czwartek
+zeszyt 2
+---
+968
+28
+czwartek
+zeszyt
+---
+969
+28
+czwartek
+ksiazka 1
+ksiazka 2
+zeszyt 3
+zeszyt 3
+---
+970
+28
+czwartek
+ksiazka 3
+zeszyt
+zeszyt 3
+---
+971
+28
+czwartek
+ksiazka 2
+ksiazka 1
+ksiazka 2
+---
+972
+28
+czwartek
+ksiazka 1
+zeszyt 3
+dlugopis
+ksiazka 2
+---
+973
+28
+czwartek
+ksiazka 2
+zeszyt
+ksiazka 3
+dlugopis
+---
+974
+29
+piatek
+ksiazka 3
+zeszyt 2
+ksiazka 2
+dlugopis
+---
+975
+29
+piatek
+ksiazka 3
+zeszyt 2
+olowek
+zeszyt
+---
+976
+29
+piatek
+dlugopis
+---
+977
+29
+piatek
+ksiazka 3
+---
+978
+29
+piatek
+zeszyt
+zeszyt
+ksiazka 1
+olowek
+---
+979
+29
+piatek
+ksiazka 2
+ksiazka 3
+olowek
+olowek
+ksiazka 1
+---
+980
+29
+piatek
+zeszyt 2
+ksiazka 3
+ksiazka 2
+ksiazka 3
+olowek
+---
+981
+29
+piatek
+zeszyt
+zeszyt 2
+zeszyt
+---
+982
+29
+piatek
+ksiazka 2
+---
+983
+29
+piatek
+dlugopis
+---
+984
+29
+piatek
+zeszyt
+dlugopis
+zeszyt 3
+---
+985
+29
+piatek
+ksiazka 1
+zeszyt
+ksiazka 3
+---
+986
+29
+piatek
+dlugopis
+dlugopis
+zeszyt 3
+ksiazka 2
+dlugopis
+---
+987
+29
+piatek
+zeszyt
+---
+988
+29
+piatek
+dlugopis
+---
+989
+30
+sobota
+ksiazka 2
+ksiazka 1
+---
+990
+30
+sobota
+ksiazka 2
+dlugopis
+ksiazka 3
+ksiazka 3
+---
+991
+30
+sobota
+zeszyt 2
+olowek
+ksiazka 1
+---
+992
+30
+sobota
+zeszyt 3
+ksiazka 2
+dlugopis
+ksiazka 2
+ksiazka 1
+---
+993
+30
+sobota
+ksiazka 1
+ksiazka 2
+ksiazka 1
+zeszyt
+---
+994
+30
+sobota
+ksiazka 1
+zeszyt 2
+olowek
+ksiazka 3
+dlugopis
+---
+995
+30
+sobota
+zeszyt 3
+olowek
+zeszyt 2
+olowek
+---
+996
+30
+sobota
+ksiazka 2
+zeszyt 3
+---
+997
+30
+sobota
+ksiazka 1
+zeszyt 2
+olowek
+ksiazka 1
+---
+998
+30
+sobota
+zeszyt 2
+dlugopis
+zeszyt
+zeszyt 3
+---
+999
+30
+sobota
+ksiazka 2
+zeszyt
+zeszyt 3
+---
+1000
+30
+sobota
+ksiazka 3
+ksiazka 3
+---
+1001
+30
+sobota
+ksiazka 2
+ksiazka 3
+olowek
+---
+1002
+30
+sobota
+zeszyt 2
+ksiazka 1
+ksiazka 2
+ksiazka 2
+---
+1003
+30
+sobota
+zeszyt 3
+---
+1004
+30
+sobota
+ksiazka 1
+---
+1005
+30
+sobota
+zeszyt
+zeszyt 3
+---
+1006
+30
+sobota
+ksiazka 1
+ksiazka 1
+---
+1007
+30
+sobota
+dlugopis
+dlugopis
+---
+1008
+30
+sobota
+zeszyt 3
+ksiazka 1
+---
+1009
+30
+sobota
+zeszyt 2
+ksiazka 3
+---
+1010
+30
+sobota
+zeszyt
+ksiazka 2
+ksiazka 1
+ksiazka 2
+zeszyt
+---
+1011
+30
+sobota
+olowek
+zeszyt
+---
+1012
+30
+sobota
+zeszyt 3
+dlugopis
+zeszyt 2
+zeszyt
+dlugopis
+---
+1013
+30
+sobota
+zeszyt 3
+zeszyt 2
+zeszyt 3
+ksiazka 3
+---
+1014
+30
+sobota
+ksiazka 2
+ksiazka 2
+ksiazka 1
+ksiazka 1
+zeszyt 3
+---
+1015
+31
+poniedzialek
+zeszyt 2
+zeszyt 2
+---
+1016
+31
+poniedzialek
+zeszyt
+---
+1017
+31
+poniedzialek
+zeszyt
+zeszyt 2
+ksiazka 2
+zeszyt 2
+ksiazka 1
+---
+1018
+31
+poniedzialek
+zeszyt
+zeszyt 2
+zeszyt 2
+---
+1019
+31
+poniedzialek
+dlugopis
+olowek
+---
+1020
+31
+poniedzialek
+ksiazka 2
+olowek
+---
+1021
+31
+poniedzialek
+ksiazka 2
+---
+1022
+31
+poniedzialek
+olowek
+zeszyt
+zeszyt 2
+ksiazka 2
+ksiazka 2
+---
+1023
+31
+poniedzialek
+ksiazka 2
+dlugopis
+dlugopis
+---
+1024
+31
+poniedzialek
+zeszyt 3
+ksiazka 1
+zeszyt
+ksiazka 3
+---
+1025
+31
+poniedzialek
+ksiazka 2
+olowek
+zeszyt
+---
+1026
+31
+poniedzialek
+zeszyt 2
+zeszyt 3
+ksiazka 2
+---
+1027
+31
+poniedzialek
+zeszyt 2
+zeszyt
+---
+1028
+31
+poniedzialek
+ksiazka 2
+olowek
+dlugopis
+dlugopis
+zeszyt 2
+---
+1029
+31
+poniedzialek
+dlugopis
+zeszyt 2
+---
+1030
+31
+poniedzialek
+olowek
+zeszyt
+---
+1031
+31
+poniedzialek
+ksiazka 2
+dlugopis
+zeszyt
+zeszyt 3
+zeszyt 2
+---
+1032
+31
+poniedzialek
+zeszyt
+olowek
+olowek
+zeszyt 3
+---
+1033
+31
+poniedzialek
+zeszyt 3
+ksiazka 2
+zeszyt 3
+zeszyt 3
+---
+1034
+31
+poniedzialek
+zeszyt 2
+ksiazka 3
+---
+1035
+31
+poniedzialek
+zeszyt 3
+---
+1036
+31
+poniedzialek
+zeszyt 2
+ksiazka 2
+zeszyt
+zeszyt 3
+zeszyt
+---
+1037
+31
+poniedzialek
+ksiazka 2
+dlugopis
+---
+1038
+31
+poniedzialek
+zeszyt 2
+ksiazka 3
+ksiazka 1
+---
+1039
+31
+poniedzialek
+zeszyt
+zeszyt 2
+ksiazka 3
+---
+1040
+31
+poniedzialek
+ksiazka 1
+---
+1041
+31
+poniedzialek
+zeszyt 2
+---
+1042
+31
+poniedzialek
+zeszyt 2
+zeszyt
+---
+1043
+31
+poniedzialek
+dlugopis
+ksiazka 3
+---
+1044
+31
+poniedzialek
+ksiazka 2
+ksiazka 3
+zeszyt
+dlugopis
+---
+1045
+31
+poniedzialek
+ksiazka 2
+zeszyt 3
+olowek
+zeszyt 2
+ksiazka 2
+---
+1046
+31
+poniedzialek
+zeszyt
+---
+1047
+31
+poniedzialek
+ksiazka 3
+zeszyt 3
+zeszyt 3
+zeszyt
+---
+1048
+31
+poniedzialek
+zeszyt 2
+ksiazka 2
+zeszyt
+ksiazka 3
+zeszyt 2
+---
+1049
+31
+poniedzialek
+zeszyt 3
+dlugopis
+zeszyt 2
+---
+1050
+31
+poniedzialek
+ksiazka 2
+ksiazka 2
+ksiazka 3
+ksiazka 2
+zeszyt 3
+---
+1051
+31
+poniedzialek
+ksiazka 2
+olowek
+zeszyt 2
+zeszyt 2
+---
+1052
+31
+poniedzialek
+zeszyt
+ksiazka 2
+zeszyt 3
+dlugopis
+---
+1053
+31
+poniedzialek
+zeszyt 3
+zeszyt 2
+ksiazka 1
+ksiazka 1
+ksiazka 1
+---
+1054
+31
+poniedzialek
+ksiazka 3
+---
+1055
+31
+poniedzialek
+ksiazka 3
+---
+1056
+31
+poniedzialek
+ksiazka 2
+ksiazka 2
+zeszyt
+ksiazka 2
+---
+1057
+32
+wtorek
+zeszyt 3
+ksiazka 3
+ksiazka 2
+---
+1058
+32
+wtorek
+olowek
+zeszyt
+zeszyt 3
+---
+1059
+32
+wtorek
+ksiazka 2
+dlugopis
+zeszyt
+ksiazka 1
+---
+1060
+32
+wtorek
+olowek
+dlugopis
+zeszyt
+olowek
+---
+1061
+32
+wtorek
+ksiazka 2
+zeszyt 2
+ksiazka 3
+zeszyt 3
+zeszyt 2
+---
+1062
+32
+wtorek
+ksiazka 3
+zeszyt 3
+---
+1063
+32
+wtorek
+ksiazka 2
+ksiazka 3
+dlugopis
+---
+1064
+32
+wtorek
+dlugopis
+dlugopis
+dlugopis
+olowek
+---
+1065
+32
+wtorek
+zeszyt 2
+ksiazka 2
+dlugopis
+---
+1066
+32
+wtorek
+zeszyt 3
+ksiazka 2
+dlugopis
+zeszyt
+ksiazka 1
+---
+1067
+32
+wtorek
+zeszyt 2
+---
+1068
+32
+wtorek
+ksiazka 1
+ksiazka 2
+ksiazka 1
+olowek
+ksiazka 2
+---
+1069
+32
+wtorek
+olowek
+olowek
+ksiazka 2
+zeszyt 2
+---
+1070
+32
+wtorek
+zeszyt 2
+zeszyt
+zeszyt
+ksiazka 2
+---
+1071
+32
+wtorek
+ksiazka 2
+zeszyt
+ksiazka 1
+dlugopis
+ksiazka 2
+---
+1072
+32
+wtorek
+ksiazka 1
+ksiazka 1
+olowek
+olowek
+zeszyt 2
+---
+1073
+32
+wtorek
+zeszyt 3
+zeszyt
+---
+1074
+32
+wtorek
+dlugopis
+dlugopis
+---
+1075
+32
+wtorek
+zeszyt 3
+zeszyt 3
+ksiazka 1
+---
+1076
+32
+wtorek
+olowek
+zeszyt 2
+---
+1077
+32
+wtorek
+ksiazka 1
+---
+1078
+32
+wtorek
+zeszyt
+---
+1079
+32
+wtorek
+olowek
+ksiazka 2
+zeszyt 3
+zeszyt 3
+ksiazka 3
+---
+1080
+32
+wtorek
+ksiazka 2
+---
+1081
+32
+wtorek
+zeszyt
+ksiazka 2
+dlugopis
+ksiazka 3
+---
+1082
+32
+wtorek
+ksiazka 3
+dlugopis
+---
+1083
+32
+wtorek
+zeszyt
+zeszyt 3
+ksiazka 2
+---
+1084
+32
+wtorek
+olowek
+ksiazka 1
+zeszyt 3
+ksiazka 1
+---
+1085
+32
+wtorek
+zeszyt
+---
+1086
+32
+wtorek
+zeszyt 3
+dlugopis
+zeszyt 2
+ksiazka 3
+---
+1087
+32
+wtorek
+zeszyt
+ksiazka 3
+dlugopis
+zeszyt
+---
+1088
+32
+wtorek
+olowek
+ksiazka 3
+olowek
+zeszyt 3
+dlugopis
+---
+1089
+32
+wtorek
+dlugopis
+zeszyt 3
+---
+1090
+32
+wtorek
+ksiazka 2
+ksiazka 1
+zeszyt 2
+---
+1091
+32
+wtorek
+ksiazka 2
+olowek
+zeszyt 2
+---
+1092
+32
+wtorek
+ksiazka 3
+olowek
+zeszyt 3
+zeszyt
+ksiazka 3
+---
+1093
+33
+sroda
+zeszyt 2
+zeszyt
+ksiazka 2
+zeszyt
+ksiazka 3
+---
+1094
+33
+sroda
+zeszyt 2
+ksiazka 1
+ksiazka 3
+---
+1095
+33
+sroda
+zeszyt 2
+dlugopis
+olowek
+---
+1096
+33
+sroda
+ksiazka 2
+---
+1097
+33
+sroda
+ksiazka 1
+zeszyt 2
+zeszyt 3
+---
+1098
+33
+sroda
+zeszyt 2
+zeszyt 3
+ksiazka 2
+zeszyt 2
+olowek
+---
+1099
+33
+sroda
+ksiazka 2
+ksiazka 2
+zeszyt
+zeszyt 3
+---
+1100
+33
+sroda
+ksiazka 3
+zeszyt 2
+ksiazka 2
+ksiazka 1
+zeszyt 3
+---
+1101
+33
+sroda
+zeszyt 3
+olowek
+olowek
+olowek
+---
+1102
+33
+sroda
+zeszyt 2
+---
+1103
+33
+sroda
+ksiazka 2
+olowek
+zeszyt
+---
+1104
+33
+sroda
+ksiazka 2
+zeszyt 3
+ksiazka 3
+---
+1105
+33
+sroda
+ksiazka 3
+---
+1106
+33
+sroda
+zeszyt 2
+olowek
+ksiazka 1
+dlugopis
+dlugopis
+---
+1107
+33
+sroda
+ksiazka 3
+olowek
+ksiazka 3
+ksiazka 1
+ksiazka 2
+---
+1108
+33
+sroda
+zeszyt
+---
+1109
+33
+sroda
+zeszyt
+olowek
+ksiazka 2
+zeszyt
+---
+1110
+33
+sroda
+zeszyt 3
+ksiazka 1
+zeszyt 3
+zeszyt 3
+---
+1111
+33
+sroda
+olowek
+zeszyt
+ksiazka 2
+---
+1112
+33
+sroda
+dlugopis
+olowek
+zeszyt 3
+---
+1113
+33
+sroda
+olowek
+olowek
+zeszyt 2
+zeszyt
+---
+1114
+33
+sroda
+ksiazka 1
+ksiazka 3
+---
+1115
+33
+sroda
+zeszyt 2
+---
+1116
+33
+sroda
+zeszyt 2
+zeszyt 2
+dlugopis
+ksiazka 2
+zeszyt
+---
+1117
+33
+sroda
+ksiazka 2
+ksiazka 2
+---
+1118
+33
+sroda
+zeszyt 2
+dlugopis
+olowek
+ksiazka 3
+---
+1119
+33
+sroda
+ksiazka 1
+ksiazka 2
+zeszyt 3
+ksiazka 3
+---
+1120
+34
+czwartek
+dlugopis
+zeszyt 3
+olowek
+ksiazka 3
+ksiazka 2
+---
+1121
+34
+czwartek
+zeszyt 3
+---
+1122
+34
+czwartek
+ksiazka 2
+zeszyt 3
+zeszyt 2
+ksiazka 1
+---
+1123
+34
+czwartek
+zeszyt
+ksiazka 1
+zeszyt 2
+zeszyt 2
+---
+1124
+34
+czwartek
+ksiazka 2
+dlugopis
+zeszyt 3
+ksiazka 1
+ksiazka 3
+---
+1125
+34
+czwartek
+zeszyt
+ksiazka 3
+ksiazka 2
+---
+1126
+34
+czwartek
+ksiazka 1
+ksiazka 3
+---
+1127
+34
+czwartek
+ksiazka 3
+ksiazka 1
+dlugopis
+ksiazka 1
+zeszyt 2
+---
+1128
+34
+czwartek
+zeszyt 2
+---
+1129
+34
+czwartek
+zeszyt 3
+ksiazka 1
+ksiazka 3
+---
+1130
+34
+czwartek
+zeszyt
+olowek
+dlugopis
+zeszyt 3
+---
+1131
+34
+czwartek
+olowek
+zeszyt 3
+zeszyt
+dlugopis
+---
+1132
+34
+czwartek
+ksiazka 2
+ksiazka 1
+zeszyt
+ksiazka 1
+olowek
+---
+1133
+34
+czwartek
+zeszyt
+---
+1134
+35
+piatek
+zeszyt
+zeszyt 3
+ksiazka 2
+---
+1135
+35
+piatek
+olowek
+zeszyt 2
+dlugopis
+zeszyt
+---
+1136
+35
+piatek
+zeszyt
+olowek
+---
+1137
+35
+piatek
+dlugopis
+zeszyt 2
+ksiazka 1
+dlugopis
+ksiazka 3
+---
+1138
+35
+piatek
+ksiazka 3
+olowek
+zeszyt 2
+---
+1139
+35
+piatek
+ksiazka 1
+---
+1140
+35
+piatek
+ksiazka 3
+zeszyt 3
+dlugopis
+zeszyt
+dlugopis
+---
+1141
+35
+piatek
+dlugopis
+ksiazka 1
+---
+1142
+35
+piatek
+dlugopis
+zeszyt 3
+dlugopis
+ksiazka 2
+---
+1143
+35
+piatek
+ksiazka 3
+zeszyt
+ksiazka 2
+ksiazka 1
+zeszyt
+---
+1144
+35
+piatek
+olowek
+olowek
+zeszyt 3
+zeszyt
+---
+1145
+35
+piatek
+ksiazka 3
+ksiazka 2
+ksiazka 2
+ksiazka 3
+---
+1146
+35
+piatek
+ksiazka 3
+ksiazka 1
+ksiazka 2
+---
+1147
+35
+piatek
+zeszyt
+---
+1148
+35
+piatek
+zeszyt 3
+zeszyt 2
+ksiazka 3
+zeszyt 2
+zeszyt
+---
+1149
+35
+piatek
+dlugopis
+ksiazka 3
+---
+1150
+35
+piatek
+zeszyt 3
+---
+1151
+35
+piatek
+ksiazka 3
+olowek
+ksiazka 1
+ksiazka 2
+ksiazka 1
+---
+1152
+35
+piatek
+ksiazka 1
+ksiazka 2
+---
+1153
+35
+piatek
+olowek
+zeszyt
+---
+1154
+35
+piatek
+olowek
+---
+1155
+35
+piatek
+ksiazka 2
+zeszyt 3
+zeszyt 3
+zeszyt
+ksiazka 1
+---
+1156
+35
+piatek
+dlugopis
+olowek
+dlugopis
+dlugopis
+---
+1157
+35
+piatek
+ksiazka 2
+ksiazka 2
+ksiazka 3
+dlugopis
+---
+1158
+35
+piatek
+zeszyt 2
+olowek
+olowek
+---
+1159
+35
+piatek
+olowek
+---
+1160
+35
+piatek
+ksiazka 2
+olowek
+ksiazka 3
+---
+1161
+35
+piatek
+ksiazka 2
+dlugopis
+---
+1162
+35
+piatek
+ksiazka 1
+zeszyt 3
+zeszyt 3
+zeszyt 2
+zeszyt 3
+---
+1163
+35
+piatek
+dlugopis
+zeszyt 2
+ksiazka 1
+olowek
+---
+1164
+35
+piatek
+zeszyt
+ksiazka 3
+zeszyt 2
+zeszyt
+---
+1165
+35
+piatek
+ksiazka 2
+dlugopis
+olowek
+---
+1166
+35
+piatek
+dlugopis
+zeszyt 2
+---
+1167
+35
+piatek
+ksiazka 1
+ksiazka 1
+dlugopis
+---
+1168
+35
+piatek
+zeszyt 2
+---
+1169
+35
+piatek
+zeszyt
+zeszyt 3
+ksiazka 3
+---
+1170
+35
+piatek
+dlugopis
+zeszyt
+olowek
+---
+1171
+36
+sobota
+ksiazka 3
+ksiazka 1
+zeszyt 3
+olowek
+ksiazka 2
+---
+1172
+36
+sobota
+ksiazka 2
+dlugopis
+---
+1173
+36
+sobota
+zeszyt 3
+zeszyt 2
+zeszyt 3
+olowek
+---
+1174
+36
+sobota
+zeszyt
+olowek
+dlugopis
+zeszyt
+ksiazka 2
+---
+1175
+36
+sobota
+dlugopis
+ksiazka 1
+ksiazka 3
+ksiazka 1
+zeszyt 3
+---
+1176
+36
+sobota
+dlugopis
+olowek
+---
+1177
+36
+sobota
+ksiazka 3
+---
+1178
+36
+sobota
+olowek
+zeszyt 3
+---
+1179
+36
+sobota
+ksiazka 3
+---
+1180
+36
+sobota
+zeszyt 2
+dlugopis
+zeszyt
+---
+1181
+36
+sobota
+zeszyt 3
+ksiazka 1
+dlugopis
+ksiazka 1
+ksiazka 3
+---
+1182
+36
+sobota
+zeszyt
+zeszyt 3
+dlugopis
+ksiazka 3
+ksiazka 1
+---
+1183
+36
+sobota
+ksiazka 2
+zeszyt
+dlugopis
+dlugopis
+ksiazka 2
+---
+1184
+36
+sobota
+ksiazka 3
+zeszyt 3
+zeszyt 2
+---
+1185
+36
+sobota
+zeszyt
+---
+1186
+36
+sobota
+zeszyt
+olowek
+zeszyt 3
+---
+1187
+36
+sobota
+ksiazka 3
+ksiazka 1
+zeszyt 3
+ksiazka 1
+---
+1188
+36
+sobota
+ksiazka 3
+zeszyt
+ksiazka 3
+---
+1189
+37
+poniedzialek
+ksiazka 2
+zeszyt 3
+zeszyt 2
+---
+1190
+37
+poniedzialek
+zeszyt 3
+ksiazka 2
+---
+1191
+37
+poniedzialek
+zeszyt 2
+zeszyt
+ksiazka 1
+---
+1192
+37
+poniedzialek
+ksiazka 3
+ksiazka 1
+---
+1193
+37
+poniedzialek
+ksiazka 2
+dlugopis
+---
+1194
+37
+poniedzialek
+zeszyt 3
+zeszyt 2
+zeszyt 3
+ksiazka 1
+---
+1195
+37
+poniedzialek
+ksiazka 3
+zeszyt 2
+---
+1196
+37
+poniedzialek
+dlugopis
+---
+1197
+37
+poniedzialek
+zeszyt 3
+ksiazka 1
+---
+1198
+37
+poniedzialek
+zeszyt 3
+ksiazka 1
+---
+1199
+37
+poniedzialek
+zeszyt
+dlugopis
+ksiazka 2
+---
+1200
+37
+poniedzialek
+zeszyt 2
+zeszyt 2
+ksiazka 1
+---
+1201
+37
+poniedzialek
+zeszyt 3
+zeszyt
+olowek
+---
+1202
+37
+poniedzialek
+ksiazka 1
+olowek
+---
+1203
+37
+poniedzialek
+ksiazka 1
+ksiazka 2
+zeszyt
+zeszyt 2
+---
+1204
+37
+poniedzialek
+ksiazka 3
+olowek
+dlugopis
+ksiazka 2
+ksiazka 2
+---
+1205
+37
+poniedzialek
+zeszyt
+ksiazka 2
+---
+1206
+37
+poniedzialek
+olowek
+ksiazka 3
+zeszyt 2
+---
+1207
+37
+poniedzialek
+ksiazka 2
+---
+1208
+37
+poniedzialek
+zeszyt
+dlugopis
+zeszyt 3
+zeszyt 2
+---
+1209
+37
+poniedzialek
+ksiazka 2
+ksiazka 3
+olowek
+---
+1210
+37
+poniedzialek
+ksiazka 1
+dlugopis
+zeszyt 2
+ksiazka 2
+olowek
+---
+1211
+37
+poniedzialek
+dlugopis
+ksiazka 2
+dlugopis
+ksiazka 2
+zeszyt 2
+---
+1212
+37
+poniedzialek
+zeszyt
+ksiazka 1
+ksiazka 2
+---
+1213
+37
+poniedzialek
+zeszyt
+zeszyt 3
+ksiazka 3
+olowek
+---
+1214
+37
+poniedzialek
+dlugopis
+ksiazka 3
+ksiazka 2
+ksiazka 2
+ksiazka 2
+---
+1215
+37
+poniedzialek
+olowek
+zeszyt
+zeszyt
+---
+1216
+37
+poniedzialek
+zeszyt 2
+zeszyt 2
+ksiazka 1
+---
+1217
+37
+poniedzialek
+zeszyt 3
+---
+1218
+37
+poniedzialek
+zeszyt 3
+---
+1219
+37
+poniedzialek
+ksiazka 2
+---
+1220
+37
+poniedzialek
+ksiazka 2
+zeszyt
+zeszyt 2
+ksiazka 1
+---
+1221
+37
+poniedzialek
+ksiazka 2
+---
+1222
+37
+poniedzialek
+ksiazka 3
+---
+1223
+37
+poniedzialek
+zeszyt 2
+dlugopis
+ksiazka 2
+zeszyt 2
+ksiazka 1
+---
+1224
+37
+poniedzialek
+zeszyt 3
+ksiazka 1
+zeszyt 2
+---
+1225
+37
+poniedzialek
+ksiazka 3
+---
+1226
+37
+poniedzialek
+ksiazka 3
+ksiazka 3
+ksiazka 1
+---
+1227
+37
+poniedzialek
+zeszyt
+ksiazka 2
+---
+1228
+37
+poniedzialek
+zeszyt
+zeszyt 2
+ksiazka 1
+ksiazka 3
+ksiazka 2
+---
+1229
+37
+poniedzialek
+ksiazka 3
+---
+1230
+37
+poniedzialek
+olowek
+olowek
+ksiazka 2
+ksiazka 1
+---
+1231
+37
+poniedzialek
+dlugopis
+zeszyt 2
+ksiazka 2
+ksiazka 3
+---
+1232
+37
+poniedzialek
+dlugopis
+dlugopis
+dlugopis
+dlugopis
+---
+1233
+37
+poniedzialek
+zeszyt 3
+zeszyt 3
+olowek
+---
+1234
+37
+poniedzialek
+olowek
+zeszyt
+---
+1235
+37
+poniedzialek
+zeszyt 2
+ksiazka 2
+olowek
+olowek
+---
+1236
+37
+poniedzialek
+dlugopis
+---
+1237
+37
+poniedzialek
+olowek
+dlugopis
+zeszyt 3
+---
+1238
+37
+poniedzialek
+zeszyt 2
+ksiazka 3
+ksiazka 1
+dlugopis
+---
+1239
+37
+poniedzialek
+ksiazka 3
+ksiazka 2
+zeszyt
+zeszyt
+---
+1240
+37
+poniedzialek
+ksiazka 1
+zeszyt 3
+zeszyt 2
+zeszyt
+ksiazka 2
+---
+1241
+37
+poniedzialek
+ksiazka 2
+zeszyt
+olowek
+zeszyt 3
+---
+1242
+38
+wtorek
+ksiazka 2
+ksiazka 2
+zeszyt 2
+zeszyt 3
+---
+1243
+38
+wtorek
+ksiazka 2
+zeszyt
+dlugopis
+---
+1244
+38
+wtorek
+ksiazka 3
+dlugopis
+ksiazka 2
+olowek
+---
+1245
+38
+wtorek
+zeszyt
+zeszyt 2
+dlugopis
+zeszyt
+---
+1246
+38
+wtorek
+olowek
+ksiazka 1
+zeszyt 3
+olowek
+---
+1247
+38
+wtorek
+ksiazka 2
+ksiazka 2
+ksiazka 1
+---
+1248
+38
+wtorek
+zeszyt 2
+zeszyt 3
+zeszyt
+---
+1249
+38
+wtorek
+ksiazka 3
+zeszyt 3
+---
+1250
+38
+wtorek
+dlugopis
+zeszyt 3
+---
+1251
+38
+wtorek
+ksiazka 2
+ksiazka 3
+dlugopis
+ksiazka 3
+---
+1252
+38
+wtorek
+zeszyt 2
+ksiazka 3
+---
+1253
+38
+wtorek
+olowek
+ksiazka 1
+---
+1254
+38
+wtorek
+ksiazka 1
+ksiazka 3
+ksiazka 2
+---
+1255
+38
+wtorek
+zeszyt
+zeszyt 2
+ksiazka 3
+ksiazka 1
+ksiazka 1
+---
+1256
+38
+wtorek
+zeszyt 3
+dlugopis
+---
+1257
+38
+wtorek
+olowek
+ksiazka 2
+---
+1258
+38
+wtorek
+ksiazka 1
+olowek
+zeszyt 3
+---
+1259
+38
+wtorek
+zeszyt 2
+---
+1260
+38
+wtorek
+zeszyt 3
+zeszyt
+zeszyt
+dlugopis
+zeszyt
+---
+1261
+38
+wtorek
+ksiazka 2
+ksiazka 1
+---
+1262
+38
+wtorek
+zeszyt
+ksiazka 2
+zeszyt
+olowek
+---
+1263
+38
+wtorek
+olowek
+zeszyt
+olowek
+ksiazka 3
+ksiazka 1
+---
+1264
+38
+wtorek
+zeszyt 3
+ksiazka 1
+dlugopis
+ksiazka 3
+---
+1265
+38
+wtorek
+ksiazka 3
+ksiazka 2
+zeszyt 3
+zeszyt 3
+ksiazka 3
+---
+1266
+38
+wtorek
+zeszyt 3
+ksiazka 2
+ksiazka 3
+---
+1267
+38
+wtorek
+zeszyt
+---
+1268
+38
+wtorek
+ksiazka 3
+---
+1269
+38
+wtorek
+dlugopis
+---
+1270
+38
+wtorek
+zeszyt 3
+dlugopis
+ksiazka 2
+zeszyt 2
+zeszyt 3
+---
+1271
+38
+wtorek
+dlugopis
+olowek
+ksiazka 2
+---
+1272
+38
+wtorek
+ksiazka 3
+dlugopis
+ksiazka 3
+ksiazka 3
+zeszyt 2
+---
+1273
+38
+wtorek
+zeszyt 2
+ksiazka 1
+zeszyt 3
+ksiazka 2
+---
+1274
+38
+wtorek
+zeszyt 3
+---
+1275
+38
+wtorek
+olowek
+ksiazka 1
+---
+1276
+39
+sroda
+zeszyt
+ksiazka 2
+zeszyt 2
+ksiazka 1
+---
+1277
+39
+sroda
+zeszyt 3
+---
+1278
+39
+sroda
+dlugopis
+olowek
+dlugopis
+---
+1279
+39
+sroda
+ksiazka 2
+ksiazka 2
+olowek
+dlugopis
+---
+1280
+39
+sroda
+ksiazka 3
+---
+1281
+39
+sroda
+ksiazka 1
+dlugopis
+zeszyt 3
+zeszyt
+zeszyt 2
+---
+1282
+39
+sroda
+ksiazka 1
+olowek
+dlugopis
+ksiazka 3
+ksiazka 3
+---
+1283
+39
+sroda
+olowek
+zeszyt
+olowek
+---
+1284
+39
+sroda
+ksiazka 1
+ksiazka 2
+zeszyt
+---
+1285
+39
+sroda
+ksiazka 2
+ksiazka 2
+ksiazka 2
+zeszyt
+ksiazka 1
+---
+1286
+39
+sroda
+olowek
+zeszyt
+---
+1287
+39
+sroda
+dlugopis
+ksiazka 3
+zeszyt
+---
+1288
+39
+sroda
+dlugopis
+---
+1289
+39
+sroda
+ksiazka 1
+olowek
+ksiazka 2
+zeszyt 2
+---
+1290
+39
+sroda
+zeszyt
+dlugopis
+zeszyt 2
+olowek
+olowek
+---
+1291
+39
+sroda
+ksiazka 1
+ksiazka 1
+zeszyt 3
+dlugopis
+---
+1292
+39
+sroda
+ksiazka 3
+olowek
+ksiazka 2
+zeszyt 3
+ksiazka 2
+---
+1293
+39
+sroda
+zeszyt 3
+olowek
+---
+1294
+39
+sroda
+ksiazka 3
+---
+1295
+39
+sroda
+zeszyt 2
+ksiazka 2
+olowek
+zeszyt
+---
+1296
+39
+sroda
+zeszyt 3
+---
+1297
+39
+sroda
+olowek
+zeszyt
+ksiazka 3
+zeszyt
+ksiazka 2
+---
+1298
+39
+sroda
+zeszyt
+---
+1299
+39
+sroda
+ksiazka 1
+zeszyt
+ksiazka 2
+olowek
+olowek
+---
+1300
+39
+sroda
+zeszyt
+ksiazka 1
+zeszyt
+olowek
+---
+1301
+39
+sroda
+ksiazka 3
+ksiazka 1
+zeszyt 2
+zeszyt 2
+---
+1302
+39
+sroda
+ksiazka 1
+olowek
+ksiazka 2
+dlugopis
+ksiazka 2
+---
+1303
+39
+sroda
+ksiazka 2
+zeszyt 3
+dlugopis
+olowek
+dlugopis
+---
+1304
+39
+sroda
+olowek
+---
+1305
+39
+sroda
+zeszyt 2
+zeszyt 2
+ksiazka 3
+zeszyt
+zeszyt
+---
+1306
+39
+sroda
+olowek
+ksiazka 1
+zeszyt 2
+ksiazka 3
+zeszyt 3
+---
+1307
+39
+sroda
+zeszyt 3
+zeszyt
+---
+1308
+39
+sroda
+ksiazka 2
+zeszyt 2
+ksiazka 3
+ksiazka 1
+zeszyt
+---
+1309
+39
+sroda
+zeszyt 2
+dlugopis
+---
+1310
+39
+sroda
+olowek
+zeszyt 3
+zeszyt 2
+ksiazka 3
+---
+1311
+39
+sroda
+zeszyt 3
+ksiazka 2
+ksiazka 3
+ksiazka 3
+---
+1312
+39
+sroda
+ksiazka 3
+---
+1313
+39
+sroda
+zeszyt 3
+dlugopis
+---
+1314
+40
+czwartek
+olowek
+dlugopis
+olowek
+ksiazka 2
+ksiazka 2
+---
+1315
+40
+czwartek
+dlugopis
+dlugopis
+olowek
+ksiazka 3
+---
+1316
+40
+czwartek
+dlugopis
+zeszyt 3
+zeszyt
+ksiazka 2
+ksiazka 2
+---
+1317
+40
+czwartek
+olowek
+---
+1318
+40
+czwartek
+ksiazka 3
+---
+1319
+40
+czwartek
+zeszyt 3
+olowek
+---
+1320
+40
+czwartek
+dlugopis
+olowek
+ksiazka 1
+ksiazka 1
+---
+1321
+40
+czwartek
+zeszyt
+zeszyt 2
+olowek
+zeszyt
+olowek
+---
+1322
+40
+czwartek
+ksiazka 2
+zeszyt
+zeszyt 2
+ksiazka 2
+zeszyt 3
+---
+1323
+40
+czwartek
+ksiazka 3
+olowek
+zeszyt
+ksiazka 2
+ksiazka 1
+---
+1324
+40
+czwartek
+olowek
+---
+1325
+40
+czwartek
+ksiazka 1
+zeszyt 2
+dlugopis
+---
+1326
+40
+czwartek
+dlugopis
+ksiazka 3
+olowek
+dlugopis
+---
+1327
+40
+czwartek
+dlugopis
+zeszyt
+ksiazka 2
+---
+1328
+40
+czwartek
+olowek
+ksiazka 1
+---
+1329
+40
+czwartek
+ksiazka 3
+ksiazka 1
+zeszyt 3
+zeszyt 2
+zeszyt
+---
+1330
+40
+czwartek
+zeszyt 2
+olowek
+ksiazka 1
+ksiazka 2
+---
+1331
+40
+czwartek
+olowek
+ksiazka 2
+dlugopis
+ksiazka 2
+ksiazka 1
+---
+1332
+40
+czwartek
+ksiazka 3
+ksiazka 1
+olowek
+ksiazka 2
+zeszyt 2
+---
+1333
+40
+czwartek
+ksiazka 2
+---
+1334
+40
+czwartek
+zeszyt 3
+olowek
+ksiazka 2
+zeszyt
+ksiazka 2
+---
+1335
+40
+czwartek
+zeszyt 3
+zeszyt
+dlugopis
+ksiazka 2
+---
+1336
+40
+czwartek
+olowek
+olowek
+---
+1337
+40
+czwartek
+ksiazka 1
+---
+1338
+40
+czwartek
+ksiazka 3
+zeszyt 2
+ksiazka 3
+ksiazka 1
+zeszyt
+---
+1339
+40
+czwartek
+zeszyt
+dlugopis
+zeszyt 3
+---
+1340
+40
+czwartek
+zeszyt 3
+ksiazka 3
+---
+1341
+40
+czwartek
+ksiazka 1
+dlugopis
+---
+1342
+40
+czwartek
+dlugopis
+ksiazka 3
+zeszyt
+zeszyt
+olowek
+---
+1343
+40
+czwartek
+zeszyt 3
+---
+1344
+40
+czwartek
+zeszyt
+ksiazka 1
+dlugopis
+ksiazka 1
+ksiazka 3
+---
+1345
+40
+czwartek
+ksiazka 3
+---
+1346
+40
+czwartek
+zeszyt 2
+ksiazka 3
+---
+1347
+40
+czwartek
+dlugopis
+zeszyt 2
+dlugopis
+ksiazka 2
+---
+1348
+40
+czwartek
+dlugopis
+ksiazka 1
+zeszyt 3
+ksiazka 1
+zeszyt 2
+---
+1349
+40
+czwartek
+zeszyt 2
+ksiazka 3
+---
+1350
+40
+czwartek
+ksiazka 2
+zeszyt 2
+zeszyt
+zeszyt 3
+zeszyt 3
+---
+1351
+40
+czwartek
+ksiazka 2
+ksiazka 3
+zeszyt 2
+ksiazka 2
+ksiazka 3
+---
+1352
+40
+czwartek
+ksiazka 1
+ksiazka 1
+ksiazka 2
+dlugopis
+---
+1353
+40
+czwartek
+ksiazka 3
+ksiazka 2
+olowek
+---
+1354
+40
+czwartek
+ksiazka 3
+zeszyt 3
+olowek
+ksiazka 1
+---
+1355
+40
+czwartek
+zeszyt
+ksiazka 1
+---
+1356
+40
+czwartek
+dlugopis
+zeszyt 2
+ksiazka 1
+ksiazka 3
+---
+1357
+40
+czwartek
+zeszyt
+ksiazka 1
+zeszyt 3
+olowek
+---
+1358
+40
+czwartek
+olowek
+---
+1359
+40
+czwartek
+zeszyt 3
+olowek
+ksiazka 1
+---
+1360
+40
+czwartek
+dlugopis
+---
+1361
+40
+czwartek
+zeszyt 3
+dlugopis
+zeszyt
+---
+1362
+41
+piatek
+ksiazka 1
+zeszyt
+ksiazka 2
+zeszyt 3
+---
+1363
+41
+piatek
+ksiazka 1
+zeszyt
+ksiazka 1
+---
+1364
+41
+piatek
+zeszyt 2
+dlugopis
+zeszyt
+ksiazka 3
+---
+1365
+41
+piatek
+zeszyt
+---
+1366
+41
+piatek
+olowek
+zeszyt 2
+olowek
+dlugopis
+ksiazka 2
+---
+1367
+41
+piatek
+olowek
+olowek
+zeszyt 3
+ksiazka 3
+---
+1368
+41
+piatek
+zeszyt 3
+ksiazka 2
+dlugopis
+olowek
+ksiazka 3
+---
+1369
+41
+piatek
+ksiazka 1
+ksiazka 3
+dlugopis
+---
+1370
+41
+piatek
+zeszyt 3
+zeszyt 2
+zeszyt 3
+---
+1371
+41
+piatek
+zeszyt
+ksiazka 3
+---
+1372
+41
+piatek
+ksiazka 2
+---
+1373
+41
+piatek
+olowek
+olowek
+zeszyt
+dlugopis
+---
+1374
+41
+piatek
+ksiazka 2
+---
+1375
+41
+piatek
+ksiazka 1
+---
+1376
+41
+piatek
+ksiazka 1
+zeszyt
+---
+1377
+41
+piatek
+ksiazka 1
+zeszyt 2
+ksiazka 3
+zeszyt
+olowek
+---
+1378
+41
+piatek
+dlugopis
+olowek
+zeszyt
+---
+1379
+41
+piatek
+ksiazka 2
+zeszyt
+dlugopis
+ksiazka 2
+---
+1380
+41
+piatek
+zeszyt
+ksiazka 1
+zeszyt 2
+dlugopis
+olowek
+---
+1381
+41
+piatek
+zeszyt
+ksiazka 3
+---
+1382
+41
+piatek
+zeszyt 2
+ksiazka 1
+dlugopis
+---
+1383
+41
+piatek
+ksiazka 3
+zeszyt
+ksiazka 2
+olowek
+---
+1384
+41
+piatek
+ksiazka 1
+zeszyt 3
+ksiazka 3
+olowek
+olowek
+---
+1385
+41
+piatek
+dlugopis
+---
+1386
+41
+piatek
+olowek
+ksiazka 3
+zeszyt 2
+olowek
+dlugopis
+---
+1387
+41
+piatek
+olowek
+ksiazka 2
+olowek
+zeszyt 3
+---
+1388
+41
+piatek
+ksiazka 3
+zeszyt 3
+zeszyt 3
+---
+1389
+41
+piatek
+dlugopis
+zeszyt
+olowek
+---
+1390
+41
+piatek
+ksiazka 1
+ksiazka 1
+zeszyt
+---
+1391
+41
+piatek
+zeszyt 3
+---
+1392
+41
+piatek
+ksiazka 3
+ksiazka 3
+olowek
+---
+1393
+41
+piatek
+zeszyt
+---
+1394
+41
+piatek
+ksiazka 3
+ksiazka 1
+zeszyt
+---
+1395
+41
+piatek
+ksiazka 1
+dlugopis
+ksiazka 1
+---
+1396
+41
+piatek
+zeszyt 2
+zeszyt 3
+ksiazka 1
+---
+1397
+41
+piatek
+zeszyt 2
+zeszyt
+zeszyt
+olowek
+zeszyt 2
+---
+1398
+41
+piatek
+ksiazka 1
+zeszyt 2
+zeszyt 3
+ksiazka 3
+ksiazka 3
+---
+1399
+41
+piatek
+dlugopis
+ksiazka 1
+ksiazka 3
+ksiazka 3
+---
+1400
+41
+piatek
+olowek
+dlugopis
+zeszyt 2
+ksiazka 1
+---
+1401
+41
+piatek
+dlugopis
+dlugopis
+ksiazka 1
+---
+1402
+41
+piatek
+zeszyt 3
+---
+1403
+41
+piatek
+ksiazka 2
+dlugopis
+olowek
+ksiazka 3
+---
+1404
+41
+piatek
+ksiazka 1
+ksiazka 3
+zeszyt 2
+olowek
+---
+1405
+41
+piatek
+ksiazka 1
+---
+1406
+41
+piatek
+ksiazka 3
+---
+1407
+41
+piatek
+ksiazka 3
+dlugopis
+ksiazka 2
+olowek
+ksiazka 2
+---
+1408
+41
+piatek
+olowek
+ksiazka 2
+ksiazka 1
+zeszyt 3
+ksiazka 3
+---
+1409
+41
+piatek
+zeszyt 2
+ksiazka 3
+zeszyt 3
+---
+1410
+41
+piatek
+ksiazka 2
+ksiazka 3
+---
+1411
+41
+piatek
+ksiazka 3
+---
+1412
+41
+piatek
+zeszyt 3
+olowek
+dlugopis
+zeszyt 2
+olowek
+---
+1413
+42
+sobota
+olowek
+zeszyt 2
+ksiazka 2
+ksiazka 1
+dlugopis
+---
+1414
+42
+sobota
+zeszyt 2
+---
+1415
+42
+sobota
+dlugopis
+---
+1416
+42
+sobota
+zeszyt 3
+---
+1417
+42
+sobota
+zeszyt
+ksiazka 2
+ksiazka 1
+ksiazka 2
+---
+1418
+42
+sobota
+ksiazka 3
+zeszyt 3
+ksiazka 1
+ksiazka 3
+---
+1419
+42
+sobota
+ksiazka 2
+---
+1420
+42
+sobota
+olowek
+zeszyt 3
+---
+1421
+42
+sobota
+zeszyt 3
+ksiazka 3
+ksiazka 3
+ksiazka 1
+ksiazka 3
+---
+1422
+42
+sobota
+ksiazka 2
+---
+1423
+42
+sobota
+zeszyt
+dlugopis
+ksiazka 1
+---
+1424
+42
+sobota
+olowek
+dlugopis
+zeszyt
+---
+1425
+42
+sobota
+ksiazka 2
+zeszyt 3
+ksiazka 1
+dlugopis
+dlugopis
+---
+1426
+42
+sobota
+ksiazka 3
+olowek
+zeszyt 3
+ksiazka 2
+---
+1427
+42
+sobota
+dlugopis
+zeszyt
+dlugopis
+ksiazka 2
+---
+1428
+42
+sobota
+zeszyt
+ksiazka 2
+ksiazka 3
+olowek
+ksiazka 2
+---
+1429
+42
+sobota
+zeszyt 3
+---
+1430
+42
+sobota
+ksiazka 1
+ksiazka 2
+ksiazka 3
+---
+1431
+42
+sobota
+ksiazka 3
+ksiazka 3
+olowek
+ksiazka 2
+ksiazka 2
+---
+1432
+42
+sobota
+olowek
+ksiazka 3
+ksiazka 2
+olowek
+zeszyt 3
+---
+1433
+42
+sobota
+zeszyt 2
+ksiazka 2
+---
+1434
+43
+poniedzialek
+ksiazka 1
+ksiazka 3
+---
+1435
+43
+poniedzialek
+dlugopis
+---
+1436
+43
+poniedzialek
+ksiazka 2
+ksiazka 2
+zeszyt
+---
+1437
+43
+poniedzialek
+zeszyt
+---
+1438
+43
+poniedzialek
+ksiazka 2
+---
+1439
+43
+poniedzialek
+ksiazka 1
+---
+1440
+43
+poniedzialek
+ksiazka 2
+---
+1441
+43
+poniedzialek
+ksiazka 2
+dlugopis
+dlugopis
+---
+1442
+43
+poniedzialek
+olowek
+dlugopis
+zeszyt 2
+---
+1443
+43
+poniedzialek
+ksiazka 3
+dlugopis
+ksiazka 3
+ksiazka 1
+zeszyt 3
+---
+1444
+43
+poniedzialek
+ksiazka 1
+---
+1445
+43
+poniedzialek
+zeszyt 3
+ksiazka 1
+zeszyt 3
+---
+1446
+43
+poniedzialek
+zeszyt 2
+zeszyt 2
+---
+1447
+43
+poniedzialek
+zeszyt 2
+zeszyt
+zeszyt
+---
+1448
+43
+poniedzialek
+zeszyt
+ksiazka 1
+dlugopis
+---
+1449
+43
+poniedzialek
+zeszyt
+zeszyt 3
+olowek
+dlugopis
+zeszyt 3
+---
+1450
+43
+poniedzialek
+zeszyt
+ksiazka 3
+dlugopis
+zeszyt 3
+zeszyt 3
+---
+1451
+43
+poniedzialek
+olowek
+---
+1452
+43
+poniedzialek
+ksiazka 2
+---
+1453
+43
+poniedzialek
+ksiazka 2
+---
+1454
+43
+poniedzialek
+ksiazka 3
+ksiazka 1
+ksiazka 1
+ksiazka 1
+---
+1455
+43
+poniedzialek
+ksiazka 3
+zeszyt 3
+zeszyt
+dlugopis
+ksiazka 2
+---
+1456
+43
+poniedzialek
+ksiazka 2
+---
+1457
+43
+poniedzialek
+dlugopis
+zeszyt
+ksiazka 3
+dlugopis
+ksiazka 3
+---
+1458
+43
+poniedzialek
+zeszyt 2
+---
+1459
+44
+wtorek
+ksiazka 2
+olowek
+dlugopis
+---
+1460
+44
+wtorek
+ksiazka 1
+ksiazka 1
+ksiazka 2
+---
+1461
+44
+wtorek
+ksiazka 3
+---
+1462
+44
+wtorek
+ksiazka 3
+zeszyt 3
+olowek
+dlugopis
+zeszyt 2
+---
+1463
+44
+wtorek
+zeszyt 3
+zeszyt 2
+zeszyt
+dlugopis
+ksiazka 1
+---
+1464
+44
+wtorek
+zeszyt 2
+---
+1465
+44
+wtorek
+ksiazka 3
+---
+1466
+44
+wtorek
+zeszyt
+ksiazka 2
+olowek
+ksiazka 1
+ksiazka 3
+---
+1467
+44
+wtorek
+zeszyt
+dlugopis
+---
+1468
+44
+wtorek
+dlugopis
+ksiazka 2
+ksiazka 1
+---
+1469
+44
+wtorek
+ksiazka 3
+ksiazka 1
+zeszyt 3
+---
+1470
+44
+wtorek
+zeszyt
+ksiazka 3
+zeszyt 2
+dlugopis
+ksiazka 2
+---
+1471
+44
+wtorek
+zeszyt
+zeszyt 3
+zeszyt 3
+---
+1472
+44
+wtorek
+ksiazka 3
+dlugopis
+zeszyt
+zeszyt 2
+---
+1473
+44
+wtorek
+dlugopis
+dlugopis
+zeszyt
+olowek
+zeszyt
+---
+1474
+44
+wtorek
+dlugopis
+ksiazka 2
+---
+1475
+44
+wtorek
+zeszyt
+zeszyt 3
+---
+1476
+44
+wtorek
+zeszyt
+ksiazka 3
+dlugopis
+---
+1477
+44
+wtorek
+zeszyt 3
+---
+1478
+44
+wtorek
+olowek
+olowek
+olowek
+zeszyt 3
+dlugopis
+---
+1479
+44
+wtorek
+zeszyt 3
+ksiazka 2
+ksiazka 1
+---
+1480
+44
+wtorek
+zeszyt
+dlugopis
+---
+1481
+44
+wtorek
+olowek
+zeszyt 3
+ksiazka 1
+---
+1482
+44
+wtorek
+olowek
+---
+1483
+44
+wtorek
+ksiazka 1
+---
+1484
+44
+wtorek
+ksiazka 1
+ksiazka 3
+---
+1485
+44
+wtorek
+zeszyt 3
+---
+1486
+44
+wtorek
+zeszyt 3
+zeszyt
+olowek
+ksiazka 2
+ksiazka 3
+---
+1487
+44
+wtorek
+ksiazka 1
+zeszyt 3
+zeszyt
+ksiazka 3
+ksiazka 1
+---
+1488
+44
+wtorek
+ksiazka 2
+ksiazka 1
+zeszyt 3
+---
+1489
+44
+wtorek
+ksiazka 3
+zeszyt
+---
+1490
+44
+wtorek
+zeszyt 3
+dlugopis
+zeszyt
+---
+1491
+44
+wtorek
+olowek
+olowek
+ksiazka 1
+dlugopis
+zeszyt
+---
+1492
+45
+sroda
+ksiazka 3
+ksiazka 1
+dlugopis
+olowek
+zeszyt
+---
+1493
+45
+sroda
+zeszyt
+ksiazka 3
+dlugopis
+---
+1494
+45
+sroda
+ksiazka 3
+olowek
+zeszyt 2
+---
+1495
+45
+sroda
+zeszyt 2
+---
+1496
+45
+sroda
+zeszyt 3
+dlugopis
+ksiazka 2
+zeszyt 3
+olowek
+---
+1497
+45
+sroda
+zeszyt 2
+ksiazka 1
+zeszyt 3
+zeszyt
+---
+1498
+45
+sroda
+zeszyt 2
+ksiazka 2
+olowek
+---
+1499
+45
+sroda
+ksiazka 2
+---
+1500
+45
+sroda
+ksiazka 1
+ksiazka 2
+zeszyt 2
+---
+1501
+45
+sroda
+olowek
+ksiazka 1
+---
+1502
+45
+sroda
+zeszyt 3
+---
+1503
+45
+sroda
+olowek
+olowek
+dlugopis
+---
+1504
+45
+sroda
+ksiazka 1
+zeszyt 2
+ksiazka 2
+olowek
+zeszyt 2
+---
+1505
+45
+sroda
+olowek
+ksiazka 2
+---
+1506
+45
+sroda
+ksiazka 1
+ksiazka 2
+olowek
+---
+1507
+45
+sroda
+zeszyt 2
+dlugopis
+olowek
+ksiazka 2
+---
+1508
+45
+sroda
+ksiazka 1
+ksiazka 3
+olowek
+---
+1509
+45
+sroda
+zeszyt
+ksiazka 3
+dlugopis
+---
+1510
+45
+sroda
+dlugopis
+---
+1511
+45
+sroda
+ksiazka 1
+olowek
+ksiazka 3
+zeszyt
+zeszyt
+---
+1512
+45
+sroda
+zeszyt 3
+---
+1513
+45
+sroda
+dlugopis
+ksiazka 2
+dlugopis
+olowek
+---
+1514
+45
+sroda
+dlugopis
+zeszyt 2
+---
+1515
+46
+czwartek
+ksiazka 3
+zeszyt
+zeszyt 3
+dlugopis
+zeszyt 2
+---
+1516
+46
+czwartek
+olowek
+---
+1517
+46
+czwartek
+dlugopis
+ksiazka 3
+zeszyt 2
+olowek
+ksiazka 2
+---
+1518
+46
+czwartek
+ksiazka 3
+zeszyt
+dlugopis
+zeszyt 3
+zeszyt 2
+---
+1519
+46
+czwartek
+ksiazka 3
+---
+1520
+46
+czwartek
+ksiazka 1
+ksiazka 1
+zeszyt 2
+olowek
+zeszyt
+---
+1521
+46
+czwartek
+dlugopis
+ksiazka 1
+zeszyt
+zeszyt 2
+ksiazka 3
+---
+1522
+46
+czwartek
+zeszyt
+zeszyt
+zeszyt 2
+zeszyt 2
+---
+1523
+46
+czwartek
+ksiazka 2
+---
+1524
+46
+czwartek
+olowek
+---
+1525
+46
+czwartek
+zeszyt
+zeszyt
+ksiazka 1
+ksiazka 1
+---
+1526
+46
+czwartek
+dlugopis
+zeszyt
+olowek
+olowek
+dlugopis
+---
+1527
+46
+czwartek
+ksiazka 1
+ksiazka 2
+ksiazka 1
+ksiazka 2
+ksiazka 1
+---
+1528
+46
+czwartek
+ksiazka 3
+olowek
+ksiazka 3
+ksiazka 3
+---
+1529
+46
+czwartek
+zeszyt
+olowek
+---
+1530
+46
+czwartek
+zeszyt 3
+---
+1531
+47
+piatek
+zeszyt 2
+---
+1532
+47
+piatek
+zeszyt 2
+---
+1533
+47
+piatek
+zeszyt 3
+olowek
+ksiazka 1
+---
+1534
+47
+piatek
+ksiazka 1
+dlugopis
+olowek
+---
+1535
+47
+piatek
+ksiazka 1
+zeszyt 3
+dlugopis
+ksiazka 3
+---
+1536
+47
+piatek
+ksiazka 1
+zeszyt 2
+zeszyt 3
+zeszyt
+---
+1537
+47
+piatek
+ksiazka 2
+ksiazka 2
+zeszyt 2
+zeszyt 3
+dlugopis
+---
+1538
+47
+piatek
+zeszyt 3
+ksiazka 1
+ksiazka 1
+---
+1539
+47
+piatek
+zeszyt 2
+olowek
+---
+1540
+47
+piatek
+ksiazka 3
+olowek
+dlugopis
+---
+1541
+47
+piatek
+ksiazka 1
+ksiazka 1
+---
+1542
+47
+piatek
+ksiazka 3
+---
+1543
+47
+piatek
+zeszyt 2
+zeszyt 3
+olowek
+dlugopis
+ksiazka 2
+---
+1544
+47
+piatek
+ksiazka 3
+---
+1545
+47
+piatek
+zeszyt 3
+ksiazka 3
+ksiazka 2
+dlugopis
+---
+1546
+47
+piatek
+zeszyt 2
+dlugopis
+olowek
+dlugopis
+zeszyt 3
+---
+1547
+47
+piatek
+zeszyt 3
+olowek
+zeszyt 3
+dlugopis
+ksiazka 2
+---
+1548
+47
+piatek
+ksiazka 1
+zeszyt
+ksiazka 2
+dlugopis
+olowek
+---
+1549
+47
+piatek
+ksiazka 1
+olowek
+ksiazka 2
+ksiazka 3
+zeszyt 3
+---
+1550
+47
+piatek
+ksiazka 3
+ksiazka 2
+---
+1551
+47
+piatek
+zeszyt 2
+zeszyt 2
+zeszyt
+zeszyt 2
+ksiazka 2
+---
+1552
+47
+piatek
+ksiazka 2
+dlugopis
+zeszyt 2
+ksiazka 2
+ksiazka 3
+---
+1553
+47
+piatek
+zeszyt 3
+zeszyt 2
+zeszyt 3
+---
+1554
+47
+piatek
+ksiazka 2
+dlugopis
+zeszyt 3
+zeszyt 2
+---
+1555
+47
+piatek
+ksiazka 2
+zeszyt 2
+---
+1556
+47
+piatek
+ksiazka 2
+ksiazka 3
+zeszyt 2
+ksiazka 3
+ksiazka 3
+---
+1557
+47
+piatek
+dlugopis
+---
+1558
+47
+piatek
+zeszyt
+ksiazka 2
+ksiazka 1
+ksiazka 3
+zeszyt
+---
+1559
+47
+piatek
+zeszyt 3
+dlugopis
+---
+1560
+47
+piatek
+zeszyt 3
+dlugopis
+zeszyt 3
+ksiazka 2
+dlugopis
+---
+1561
+47
+piatek
+zeszyt 3
+ksiazka 3
+---
+1562
+47
+piatek
+olowek
+ksiazka 1
+ksiazka 1
+ksiazka 1
+---
+1563
+47
+piatek
+zeszyt 3
+zeszyt
+dlugopis
+ksiazka 3
+---
+1564
+47
+piatek
+olowek
+ksiazka 1
+ksiazka 2
+ksiazka 2
+---
+1565
+47
+piatek
+zeszyt 2
+ksiazka 1
+zeszyt 3
+dlugopis
+---
+1566
+47
+piatek
+dlugopis
+zeszyt 3
+zeszyt 3
+ksiazka 2
+ksiazka 2
+---
+1567
+47
+piatek
+ksiazka 2
+zeszyt 2
+---
+1568
+47
+piatek
+ksiazka 1
+ksiazka 2
+dlugopis
+---
+1569
+47
+piatek
+ksiazka 2
+zeszyt 3
+zeszyt
+---
+1570
+47
+piatek
+dlugopis
+---
+1571
+47
+piatek
+olowek
+olowek
+olowek
+---
+1572
+47
+piatek
+zeszyt
+zeszyt 2
+ksiazka 2
+ksiazka 2
+---
+1573
+47
+piatek
+ksiazka 2
+ksiazka 1
+ksiazka 3
+ksiazka 1
+---
+1574
+47
+piatek
+ksiazka 1
+---
+1575
+47
+piatek
+zeszyt
+olowek
+dlugopis
+---
+1576
+47
+piatek
+ksiazka 2
+zeszyt
+ksiazka 1
+zeszyt 2
+---
+1577
+48
+sobota
+olowek
+zeszyt 3
+---
+1578
+48
+sobota
+olowek
+---
+1579
+48
+sobota
+zeszyt 2
+zeszyt 3
+zeszyt
+zeszyt 2
+zeszyt 3
+---
+1580
+48
+sobota
+zeszyt 2
+ksiazka 3
+ksiazka 2
+ksiazka 2
+---
+1581
+48
+sobota
+olowek
+---
+1582
+48
+sobota
+zeszyt 3
+olowek
+dlugopis
+ksiazka 3
+---
+1583
+48
+sobota
+ksiazka 3
+zeszyt 3
+olowek
+dlugopis
+---
+1584
+48
+sobota
+ksiazka 3
+dlugopis
+---
+1585
+48
+sobota
+olowek
+ksiazka 2
+olowek
+---
+1586
+48
+sobota
+zeszyt 2
+olowek
+zeszyt 3
+ksiazka 2
+dlugopis
+---
+1587
+48
+sobota
+olowek
+ksiazka 3
+---
+1588
+48
+sobota
+ksiazka 3
+zeszyt 2
+---
+1589
+48
+sobota
+zeszyt
+zeszyt 3
+olowek
+ksiazka 3
+---
+1590
+49
+poniedzialek
+zeszyt 3
+---
+1591
+49
+poniedzialek
+zeszyt
+ksiazka 2
+dlugopis
+---
+1592
+49
+poniedzialek
+ksiazka 1
+zeszyt 2
+zeszyt 2
+zeszyt
+zeszyt 3
+---
+1593
+49
+poniedzialek
+olowek
+ksiazka 1
+dlugopis
+zeszyt 3
+ksiazka 3
+---
+1594
+49
+poniedzialek
+zeszyt 2
+olowek
+---
+1595
+49
+poniedzialek
+ksiazka 2
+dlugopis
+zeszyt 2
+ksiazka 1
+ksiazka 3
+---
+1596
+49
+poniedzialek
+olowek
+zeszyt 3
+zeszyt 3
+---
+1597
+49
+poniedzialek
+zeszyt 3
+zeszyt 2
+ksiazka 1
+olowek
+zeszyt 2
+---
+1598
+49
+poniedzialek
+olowek
+---
+1599
+49
+poniedzialek
+ksiazka 1
+zeszyt
+---
+1600
+49
+poniedzialek
+olowek
+zeszyt 3
+ksiazka 3
+dlugopis
+---
+1601
+49
+poniedzialek
+olowek
+olowek
+zeszyt 2
+dlugopis
+ksiazka 2
+---
+1602
+49
+poniedzialek
+dlugopis
+---
+1603
+49
+poniedzialek
+ksiazka 2
+zeszyt
+---
+1604
+49
+poniedzialek
+zeszyt 2
+zeszyt 3
+zeszyt 3
+ksiazka 1
+zeszyt 3
+---
+1605
+49
+poniedzialek
+dlugopis
+zeszyt 2
+zeszyt 3
+---
+1606
+49
+poniedzialek
+zeszyt 2
+ksiazka 1
+ksiazka 1
+olowek
+---
+1607
+49
+poniedzialek
+ksiazka 1
+---
+1608
+49
+poniedzialek
+zeszyt 3
+zeszyt 2
+---
+1609
+49
+poniedzialek
+zeszyt 2
+---
+1610
+49
+poniedzialek
+dlugopis
+---
+1611
+49
+poniedzialek
+zeszyt
+dlugopis
+---
+1612
+49
+poniedzialek
+ksiazka 2
+ksiazka 3
+zeszyt
+---
+1613
+49
+poniedzialek
+ksiazka 3
+ksiazka 3
+dlugopis
+zeszyt 2
+zeszyt 3
+---
+1614
+50
+wtorek
+ksiazka 1
+ksiazka 1
+---
+1615
+50
+wtorek
+olowek
+olowek
+---
+1616
+50
+wtorek
+ksiazka 2
+ksiazka 3
+dlugopis
+---
+1617
+50
+wtorek
+olowek
+zeszyt 2
+---
+1618
+50
+wtorek
+ksiazka 1
+ksiazka 3
+ksiazka 3
+zeszyt 3
+olowek
+---
+1619
+50
+wtorek
+zeszyt 3
+---
+1620
+50
+wtorek
+olowek
+ksiazka 2
+---
+1621
+50
+wtorek
+ksiazka 1
+---
+1622
+50
+wtorek
+zeszyt 3
+---
+1623
+50
+wtorek
+ksiazka 2
+dlugopis
+---
+1624
+50
+wtorek
+zeszyt 2
+ksiazka 2
+ksiazka 1
+---
+1625
+50
+wtorek
+zeszyt 2
+zeszyt 2
+olowek
+---
+1626
+50
+wtorek
+ksiazka 3
+---
+1627
+50
+wtorek
+dlugopis
+---
+1628
+50
+wtorek
+ksiazka 2
+zeszyt 2
+ksiazka 2
+zeszyt 2
+dlugopis
+---
