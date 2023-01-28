@@ -3,12 +3,11 @@ goods=['zeszyt','ksiazka 1','ksiazka 2','ksiazka 3','olowek','dlugopis','zeszyt 
 days=['poniedzialek','wtorek','sroda','czwartek','piatek','sobota']
 day=0
 number_of_sale=1
+file=open('sales.txt','a')
 for i in range(1,51):
-    
+    flaga=i
     if day>5:
         day=0
-
-    all_sales=[i,days[day]]
     
     if days[day] == 'sobota':
         amount_of_sales=random.randrange(12,30,1)
@@ -17,7 +16,8 @@ for i in range(1,51):
     print('Ilosc sprzedazy w dniu',i,'=',amount_of_sales)
     
     for q in range(1,amount_of_sales+1):
-        sale=[number_of_sale,i,days[day]]
+        sale=[number_of_sale,flaga,days[day]]
+        print(sale)
         amount_of_goods=random.randrange(1,6,1)
         print('Ilosc towarow w sprzedazy',number_of_sale,'=',amount_of_goods)
         for a in range(0,amount_of_goods):
@@ -26,6 +26,15 @@ for i in range(1,51):
 
         number_of_sale+=1
         print(sale)
+        for i in sale:
+            file.write(str(i))
+            file.write('\n')
+
+        file.write("---")
+        file.write('\n')
     day+=1
+
+
+file.close()
 
 
